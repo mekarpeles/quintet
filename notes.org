@@ -1,20 +1,16 @@
-# Palette
+* Palette
 - Pre-technological revolution (no mainstream electricity)
 - World is earth-like; has nights and days; comparable weather; trees, water, ocean, tundra, volcanos
 - Physics applies: conservation of mass and energy
-- Religion exists
+- Religion exists (name ideas: Renthyr)
 
-# Characters
+* Characters
 
-## Leina (main protagonist)
+** Leina (main protagonist)
 
-## Nume (Leina's mother)
+** Nume (Leina's mother)
 
-# Unorganized Notes
-
-* What's the world like?
-** Religion
-Renthyr
+* Unorganized Notes
 
 ** Town
 It's a fisher's town, it's raining. It has been for weeks. It has been
