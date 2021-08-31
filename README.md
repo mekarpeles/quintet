@@ -4,6 +4,8 @@ Quintet is the story of Leina Grey, a young girl who founds an academy of prodig
 
 ## Story Outline
 
+Read the story in tweet-thread form: https://twitter.com/mekarpeles/status/1432731912242614273
+
 Leina is a loner who doesn't understand fun. She's smarter & more mature than the kids her age, and most adults. And is very sensitive of the ways her experience lacks behind her theoretical knowledge.
 
 Leina's mother, Nume, is paranoid / a bit crazy (may not without justification) and educates Leina harshly.
