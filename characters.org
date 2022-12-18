@@ -1,5 +1,6 @@
-* Madeleina (Leina) Grey - The main character of our story
-* Haesius Moore - Nume's brother, Leina's uncle
-* Nume Moore Grey - Leina's mother
-* Ardovus Retik - the assassin sent to find Leina
-* Sam Smithens - librarian
+* Characters
+- Madeleina (Leina) Grey - The main character of our story
+- Haesius Moore - Nume's brother, Leina's uncle
+- Nume Moore Grey - Leina's mother
+- Ardovus Retik - the assassin sent to find Leina
+- Sam Smithens - librarian
