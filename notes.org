@@ -1,10 +1,8 @@
-
-
 * Unorganized Notes
 
 ** Town
-It's a fisher's town, it's raining. It has been for weeks. It has been
-for months, without stop.
+It's a fisher's town, it's raining. It has been for weeks. It has been for months, without stop.
+
 * What are the characters like?
 ** Leina
 - Her mother, Nume, is the best blacksmith in town, but kept perpetually poor
@@ -31,12 +29,7 @@ Races:
 
 The Collector. The Lords pay tribute to the "Collector".
 
-- The School of Five
-Sielaph: Strength, brave (Man)
-Cassiel: Charisma, manipulating (Woman)
-Ysideos: Wisdom & Intelligence (Woman)
-Ditreni: Dexterious (Woman)
-Osula: Endurance/Constitution, the outlaster (Man)
+
 
 The Collector
 - Greyskins - humans forced into slavery living underground, injected with serum, passed down through generations.
@@ -119,7 +112,7 @@ Greyskins
 
 
 Leina is a tormented kid. She is way too mature and intellgent for her age.
-She does not like adults. She hates the idea of politics. She wants to disappear and run away and be free.
+She does not like adults. She hates the idea of politics. She wants to be free.
 
 
 
@@ -128,16 +121,16 @@ Classes:
 - Reader / Pryer
 
 
-Leina lives in her Uncle's house. She wants to help the poor
-
-Everything is fine.
+Leina lives in her Uncle's house
 
 Something important happened long ago which has been forgotten.
 A deal was made? A people were exterminated? A thing was created? A book was written? Something was sealed?
 Why? How?
 
+* The Oracle
+
 The Oracle is death. Where all souls go to die.
-It welcomes your final breath, never shall you cry.
+It welcomes your final breath, ne'er more shall you cry.
 
 The Oracle can be controlled by certain people who fight amongst themselves to become Queen or King.
 
@@ -203,8 +196,6 @@ Jina - patient, quiet, doesn't talk, whispers to Leina
 
 ** Plot
 
-What is Ardovus's mission and how does it relate to Leina?
-kid grows up to be badass,
 
 Blackmoor - a wooded neighborhood with dirt roads, several miles from the city proper of Westhaven
 
