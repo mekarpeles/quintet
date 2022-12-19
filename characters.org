@@ -5,11 +5,13 @@
 - Nume Moore Grey - Leina's mother
 - Ardovus Retik - the assassin sent to find Leina
 - Sam Smithens - librarian
-
-** Other Characters
 - The School of Five? (ideas)
-   - Sielaph: Strength, brave (Man)
-   - Cassiel: Charisma, manipulating (Woman)
-   - Ysideos: Wisdom & Intelligence (Woman)
-   - Ditreni: Dexterious (Woman)
-   - Osula: Endurance/Constitution, the outlaster (Man)
+   1. Sielaph: Strength, brave (Man)
+   2. Cassiel: Charisma, manipulating (Woman)
+   3. Ysideos: Wisdom & Intelligence (Woman)
+   4. Ditreni: Dexterious (Woman)
+   5. Osula: Endurance/Constitution, the outlaster (Man)
+- The Collector(s) - There’s a powerful individual or band which operates in secrecy that is referred to as the "Collector" or the "Collectors". Everyone pays tribute to the Collector(s), through groups such as the Red Shepherds. It’s not known who is in charge (it’s somewhat faceless, like anonymous).
+- The Oracle (Symbol) - The Oracle is a [rune](https://github.com/mekarpeles/quintet/blob/master/notes.org#the-oracle) of power, thought to be a link to the earth, life, and death. All living energy is born from the Oracle and returned upon death. Its mechanics are not fully understood.
+- The Red Shepherds (Faction) - A militaristic political group led by the Collector.
+
