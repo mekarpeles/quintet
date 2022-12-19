@@ -6,10 +6,10 @@
 - Ardovus Retik - the assassin sent to find Leina
 - Sam Smithens - librarian
 
-
+** Other Characters
 - The School of Five? (ideas)
--- Sielaph: Strength, brave (Man)
--- Cassiel: Charisma, manipulating (Woman)
--- Ysideos: Wisdom & Intelligence (Woman)
--- Ditreni: Dexterious (Woman)
--- Osula: Endurance/Constitution, the outlaster (Man)
+   - Sielaph: Strength, brave (Man)
+   - Cassiel: Charisma, manipulating (Woman)
+   - Ysideos: Wisdom & Intelligence (Woman)
+   - Ditreni: Dexterious (Woman)
+   - Osula: Endurance/Constitution, the outlaster (Man)
