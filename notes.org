@@ -1,15 +1,8 @@
 * Unorganized Notes
 
-** Town
-It's a fisher's town, it's raining. It has been for weeks. It has been for months, without stop.
+This document is mostly deprecated ...
 
-* What are the characters like?
-** Leina
-- Her mother, Nume, is the best blacksmith in town, but kept perpetually poor
-- Diteni would have his weapon forged by Nume
-- her father, Hausue, was a fisherman
-- she has excellent balance
-- she is increcibly strong willed and not stopped by fear.
+
 
 An assassin finds/rescues Leina. (Leon the Professional)
 
@@ -20,7 +13,7 @@ but Leina has seen the assassin.
 
 Leina demands the Assassin gives her a tattoo to codify their
 alliance. Every additional person who joins the school is required to
-tattoo a point and connect the dots from an existing point
+tattoo a point and connect the dots from an existing point... Decentralized graph :) 
 
 
 Races:
@@ -43,7 +36,6 @@ Slavery.
 service to a Lord.
 
 What is the religion:
-
 
 The story begins in chaos with an alchemist being torn from his family
 to join the Red Shepard's military effort to attack the very same
@@ -77,19 +69,7 @@ Father told a story about a prophecy? Geryon helps a boy who is a powerful alche
 
 Neighbor's mother takes her in, she's a tactician for the Red Shepards. Is actually the girl's aunt.
 
-
-
-Her father was a blacksmith smith
-
-He doesn't help people
-
-Why is he alone?
-
-
 Young boy asks for her help.
-
-
-
 
 * The Books
 Leina
@@ -109,11 +89,6 @@ commonfolk, and the greyskin.
 
 
 Greyskins
-
-
-Leina is a tormented kid. She is way too mature and intellgent for her age.
-She does not like adults. She hates the idea of politics. She wants to be free.
-
 
 
 Classes:
@@ -163,7 +138,9 @@ She has information?
 
 Generally follows the mono-myth (Lord of the Rings-esque, no super powers though fantastical setting). Leina lives with her uncle who does little save from claim responsibility as her guardian. She is self-reliant and seeks mentorship from various places. She has no extraordinary capabilities other than an unhealthy "tiger-mother-esque" upbringing and overdeveloped sense of strategy / learned-ness and persuasion.
 
-Setting is a fishing town outside of a larger city. Leina grows up in a remote foresty area, a few hour caravan ride away from the town.
+* Synopsis
+
+It's Lord of the Rings / Harry Potter (Mono Myth) meets "Moneyball".
 
 The general tone / setting of the epic is similar to Game of Thrones in that there are warring cities trying to gain an upper hand. There's one band which operates in secrecy which referred to as the "Collectors". Everyone pays tribute to the Collectors. It's not known who is in charge (it's somewhat faceless, like anonymous). The "Academy" which Leina happens to form throughout the story comes to unintentionally undermine the Collector's authority and sinister plans.
 
@@ -184,45 +161,6 @@ unite talented youths, rejected by the world, to her side. What starts
 as a band of friends grows into a political power capable of resisting
 tyrrany of an unjust world.
 
-It's Lord of the Rings / Harry Potter (Mono Myth) meets "Moneyball".
-
-relate these characters to deadly sins
-
-Jina -
-Saria - strong
-Rena - pretty
-Zeza - book smart
-Mena - strategy,
-Sanja
-Jina - patient, quiet, doesn't talk, whispers to Leina
-
-** Plot
 
 
-Blackmoor - a wooded neighborhood with dirt roads, several miles from the city proper of Westhaven
-
-
-
-
-            || Road to Westhaven
-
-888888888888||888888888888
-
-         Blackmoor field
-
-         ...
-         //
-         ||
-         ||
-         || X
-       X ||
-         || X
-Leimus X ||
-         || X
-       X ||
-         |================
-       X || X  X  X  X  X
-         || -------------
-       X || X  X  X  X  X
-       X |================
 
