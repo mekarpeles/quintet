@@ -84,3 +84,15 @@ In the pursuit of survival, Leina must simultaneously yield to the assassin's ag
   - Used to be in the Westhaven guard
   - He is having an affair with `Lindy Abigale`
 * `Lindy Abigale` - She works at the market
+
+## End State (spoiler)
+
+Leina faces the Protector, near The Oracle. Leina attempts to play the same card, binding her fate to the Protector, and intentionally claiming her life in the process to take the Protector with her, but what is not expected is that Ardivous is also bound to Leina and keeping her alive. He must decide whether to break free of Leina and survive or give his own life to the cause and ultimately he makes the difficult decision to save her.
+
+- thousands have died resisting the Protector and the Red Shepherds. Their souls have been returned to The Oracle, only furthering the Protector's drive for power.
+- as the Reds knowledge increases, so do their capabilities, and they become closer to identifying the signature of the rebellious soul seekers, led by Leina -- simply called the "Defenders". On the precipice of being discovered, Leina must go on the offensive.
+- Leina goes with a team to face the Protector. Her hope is to join his fate with hers, similar to what she did with Ardivous, and then to take her own life, thus taking the Protector with her.
+- But Leina is overwhelmed by the Protector and unable to maintain control. The Protector commits her life force to the Oracle.
+- Except the joining of fates had been successful: what really happened, unexpectedly, is the Protector was joined not only with Leina but also to Ardivous.
+- Realizing this, Ardivous makes the impossible decision to take his own life and commit himself and the Protector to the Oracle. The Oracle becomes overwhelmed and unstable and the Protector's city begins to crumble.
+- By the grace of Ardivous, Leina survives.
