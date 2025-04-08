@@ -14,8 +14,13 @@ Our story takes place in an earth-like world called `Orbis`, a land not unlike o
 
 In this world, magic is not a ubiquitous construct, it is legend; a lost skill, and mostly explainable. While not magic, per say, the world has elements that are naturally fantastical or indistinguishable from magic in their own rights, similar to how science is both explainable and in many ways imperceivable from magical in our world. In this world, there is a lost art called "soul seeking" which is the ability (not unlike the idea of the "Force" from Star Wars). Similar to how Wim Hof might claim to manipulate the temperature or immune response of his body, soul seeking is the deep art and mastery of using one's life energy to catalyze interactions between cells, or invoking such reactions in another. While this phenomenon occurs naturally in the universe and nature, certain materials and areas seem more conducive to performing "soul seeking". One such material is the Oracle Stone, a type of black obsidian rock that behaves almost like a magnet for amplifying or focusing biological signals. On Orbis, there is a massive rock formation of Oracle Stone, simply called, "The Oracle", which extends deep into Orbis's mantle, its gravity concentrating an energy field towards and around it, as might a Tesla Coil.
 
+There is a passage in Leina's soul seeking manual that she takes for granted as gospel, but which she learns no one else seems to know:
 > The Oracle is Death, where souls cease to be.
 > She takes your final breath for eternity.
+
+## Concepts
+
+"signatures" in soul seeking – individuals leave a unique energetic imprint. The Red Shepherds are beginning to develop methods to detect these signatures, posing a growing threat to any potential resistance.
 
 ## Outline
 
@@ -98,7 +103,8 @@ In the pursuit of survival, Leina must simultaneously yield to the assassin's ag
 
 Leina faces the Protector, near The Oracle. Leina attempts to play the same card, binding her fate to the Protector, and intentionally claiming her life in the process to take the Protector with her, but what is not expected is that Ardivous is also bound to Leina and keeping her alive. He must decide whether to break free of Leina and survive or give his own life to the cause and ultimately he makes the difficult decision to save her.
 
-- thousands have died resisting the Protector and the Red Shepherds. Their souls have been returned to The Oracle, only furthering the Protector's drive for power.
+- Thousands have died resisting the Protector and the Red Shepherds.
+- It's discovered (via Alistair's annotations) that many of their souls have been returned to The Oracle, only furthering the Protector's drive for power.
 - as the Reds knowledge increases, so do their capabilities, and they become closer to identifying the signature of the rebellious soul seekers, led by Leina -- simply called the "Defenders". On the precipice of being discovered, Leina must go on the offensive.
 - Leina goes with a team to face the Protector. Her hope is to join his fate with hers, similar to what she did with Ardivous, and then to take her own life, thus taking the Protector with her.
 - But Leina is overwhelmed by the Protector and unable to maintain control. The Protector commits her life force to the Oracle.
