@@ -2,40 +2,35 @@
 
 This document is mostly deprecated ...
 
+** Classes:
+- Grace
+- Seekers
 
 
-An assassin finds/rescues Leina. (Leon the Professional)
+** Places?
 
-Leina is commanding and unafraid. Helps assassin steal, orders
-assassin not to kill children, find reasons why they can
-help. Founding of the Five Schools. Noone knows where this is. No one
-but Leina has seen the assassin.
+- Blackmoor?
+- Westhaven?
+
+** Character Ideas
+- General Hadyn Throeau - a historic figure somehow related to Leina
+- Jina (samwise-like; patient, quiet, doesn't talk, whispers to Leina), Saria, Rena, Zeeza, Mena, Sanja
+- The School of Five? (ideas)
+   1. Sielaph: Strength, brave (Man)
+   2. Cassiel: Charisma, manipulating (Woman)
+   3. Yisidy: Wisdom & Intelligence (Woman)
+   4. Ditre: Dexterious (Woman)
+   5. Osula: Endurance/Constitution, the outlaster (Man)
 
 Leina demands the Assassin gives her a tattoo to codify their
 alliance. Every additional person who joins the school is required to
 tattoo a point and connect the dots from an existing point... Decentralized graph :) 
 
+- Greyskins? - humans forced into slavery living underground, injected with serum, passed down through generations.
+-- enhancing / experimenting?
 
-Races:
-- Humans
--- Alchemists
-
-The Collector. The Lords pay tribute to the "Collector".
-
-
-
-The Collector
-- Greyskins - humans forced into slavery living underground, injected with serum, passed down through generations.
--- self mutalating, enhancing / experimenting
-
-What threatens everyone? How?
-
-Slavery.
-
-1) An inquisition: Spreading a religion which requires your
-service to a Lord.
-
-What is the religion:
+**  Questions
+- Is there religion?
 
 The story begins in chaos with an alchemist being torn from his family
 to join the Red Shepard's military effort to attack the very same
@@ -56,44 +51,26 @@ Leina has a childhood friend
 
 Who
 
-Geryon is a loner, she lives by a set of principles
+Geryon [nick-name for Leina?] is a loner, she lives by a set of principles
 - Avoid people contact unless necessary
 - Change appearances weekly
 - Do not stay in one place for too long
 - wears a necklace
-Plans meticulously
+- Plans meticulously
 
+Leina is told a story about a prophecy?
 
-
-Father told a story about a prophecy? Geryon helps a boy who is a powerful alchemist without knowing it
-
-Neighbor's mother takes her in, she's a tactician for the Red Shepards. Is actually the girl's aunt.
-
-Young boy asks for her help.
-
-* The Books
-Leina
-
-The School of Five
-1. The Founding
-2.
-3.
-
-
-* Prologue
 
 ** 1. Greyskins
 
-In the land of Blackmoor, there live three types of people, nobility,
+In the land of , there live three types of people, nobility,
 commonfolk, and the greyskin.
 
 
 Greyskins
 
 
-Classes:
-- Grace
-- Reader / Pryer
+
 
 
 Leina lives in her Uncle's house
@@ -105,7 +82,7 @@ Why? How?
 * The Oracle
 
 The Oracle is death. Where all souls go to die.
-It welcomes your final breath, ne'er more shall you cry.
+She takes your final breath, ne'er more to cry.
 
 The Oracle can be controlled by certain people who fight amongst themselves to become Queen or King.
 
