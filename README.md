@@ -12,13 +12,13 @@ The story of Leina Grey is a monomyth / hero's journey, thematically most simila
 
 Our story takes place in an earth-like world called `Orbis`, a land not unlike ours, not yet spoiled by industrialization. Beautiful blue skies, lush woods, and cobblestone roads set the peaceful stage to contrast upcoming turmoil.
 
-While not explicitly magical, has some worldly elements that are naturally fantastical or indistinguishable from magic in their own rights, similar to how science is both real and in many ways magical in our world. In this world, there is a lost art called "soul seeking" which is the ability (not unlike the idea of the "Force" from Star Wars). Similar to how Wim Hof might claim to manipulate the temperature or immune response of his body, soul seeking is the deep art and mastery of using one's life energy to catalyze interactions between cells, or invoking such reactions in another. While this phenomenon occurs naturally in the universe and nature, certain materials and areas seem more conducive to performing "soul seeking". One such material is the Oracle Stone, a type of black obsidian rock that behaves almost like a magnet for amplifying or focusing biological signals. On Orbis, there is a massive rock formation of Oracle Stone, simply called, "The Oracle", which extends deep into Orbis's mantle, its gravity concentrating an energy field towards and around it, as might a Tesla Coil.
+In this world, magic is not a ubiquitous construct, it is legend; a lost skill, and mostly explainable. While not magic, per say, the world has elements that are naturally fantastical or indistinguishable from magic in their own rights, similar to how science is both explainable and in many ways imperceivable from magical in our world. In this world, there is a lost art called "soul seeking" which is the ability (not unlike the idea of the "Force" from Star Wars). Similar to how Wim Hof might claim to manipulate the temperature or immune response of his body, soul seeking is the deep art and mastery of using one's life energy to catalyze interactions between cells, or invoking such reactions in another. While this phenomenon occurs naturally in the universe and nature, certain materials and areas seem more conducive to performing "soul seeking". One such material is the Oracle Stone, a type of black obsidian rock that behaves almost like a magnet for amplifying or focusing biological signals. On Orbis, there is a massive rock formation of Oracle Stone, simply called, "The Oracle", which extends deep into Orbis's mantle, its gravity concentrating an energy field towards and around it, as might a Tesla Coil.
 
 ## Outline
 
 A political faction called the Red Shepherds (or the "Reds"), under the mythed merciless leadership of one simply called the "Protector", seeks to command the power of soul seeking to overcome their human limitations, to achieve mental and physical superiority, and to challenge death itself.
 
-Leina Grey is a fourteen-year-old loner girl, the protaganist of our story, who was never raised to know a concept of "fun". She's smarter & more mature than the kids her age, most adults for that matter, and is very sensitive of the ways her experience lacks behind her theoretical knowledge.
+Leina Grey is a fourteen-year-old loner girl, the protagonist of our story, who was never raised to know a concept of "fun". She's smarter & more mature than the kids her age, most adults for that matter, and is very sensitive of the ways her experience lacks behind her theoretical knowledge.
 
 Leina's mother, Nume, is paranoid, intense, and a bit crazy (maybe not without justification) and educates Leina harshly. Leina's job is essentially being a full-time college student while in "7th grade".
 
@@ -48,10 +48,36 @@ In the pursuit of survival, Leina must simultaneously yield to the assassin's ag
 
 ## Characters
 
-* `Leina` is a loner who doesn't understand fun. She's smarter & more mature than the kids her age, and most adults. And is very sensitive of the ways her experience lacks behind her theoretical knowledge. For some reason Leina always found the approaches intuitive and strangely familiar, if not a bit off or wrong in subtle ways she couldn't describe.
+* Madeleina (`Leina`) Grey - a loner who doesn't understand fun. She is the main protagonist of our story. She's smarter & more mature than the kids her age, and most adults. And is very sensitive of the ways her experience lacks behind her theoretical knowledge. For some reason Leina always found the approaches intuitive and strangely familiar, if not a bit off or wrong in subtle ways she couldn't describe.
+  - Leina is a young girl (14)
+  - She is way too mature and intellgent for her age, not by choice
+  - Does not especially like adults
+  - Hates the idea of politics but is quite political
+  - self-reliant
+  - tormented
+  - wants freedom, peace, solitude, a simple life
+  - wears a necklace with a large trillion of oracle stone
 
 * `Nume` - Leina's mother, is paranoid / a bit crazy (may not without justification) and educates Leina harshly.
 
-Among many of her mother's books was a book called the Soul Seeker's Manual which had slightly woo approaches to medicine. Heuristics and classical approaches. One one edition of the Soul Seeker's Manual has notes on this practice, and it is the copy that Nume has
+* `Ardivous Retik`
+ -  an Assassin sent by the Red Shepherds to find the annotated Soul Seeker's Manual. Aside from being circumstantially heartless, the assassin also has a heart defect. He is beholden to the Reds who tell him his life depends on acquiring this book and the care of the Red Shepherd's Soul Seekers.
 
-* `Ardivous` -  an Assassin sent by the Red Shepherds to find the annotated Soul Seeker's Manual. Aside from being circumstantially heartless, the assassin also has a heart defect. He is beholden to the Reds who tell him his life depends on acquiring this book and the care of the Red Shepherd's Soul Seekers.
+* `Nume Moore Grey` - Leina's mother
+  - sharp nose, almost like a witch
+  - curly dark brown unkempt hair 
+  - manic-depressive
+* `Alistair Grey` - Leina's father
+  - Famous, though it's unclear for what (good or bad)
+  - The annotations in Leina's soul seeker's manual are from Alistair, but Leina won't learn this until much later when she recognizes the handwriting
+  - may play a similar complicated role to Snape or Boromit
+* `Haesius Moore` - Leina's uncle & Nume's brother
+* `Samuel "Sammy" Smithens` - the town librarian
+  - An old frail man with white hair, mostly on the side of his head
+  - Treats children like adults, believes good ideas can come from anyone
+* The `Protector` - The Leader of the Reds
+* The `Collector(s)` - A group of elite Reds and a fabled band which operates in secrecy to do the Protector's will. Everyone pays tribute to the Collector(s), through groups such as the Red Shepherds. It’s not known who is in charge (it’s somewhat faceless, like anonymous).
+* `Johan Lemeus` - Leina's next door neighbor
+  - Used to be in the Westhaven guard
+  - He is having an affair with `Lindy Abigale`
+* `Lindy Abigale` - She works at the market
