@@ -49,6 +49,15 @@ This story is about Leina's survival, and how it ultimately drives her to start 
 
 In the pursuit of survival, Leina must simultaneously yield to the assassin's agenda and leverage her soul seeking abilities and strategic prowess to amass enough power to gain the upper hand.
 
+* Isolated Beginnings & The Looming Threat: Leina's unique childhood under Nume contrasts with the rising power of the Red Shepherds.
+*  Forced Flight & Accidental Bond: The death of her parents forces Leina into a dangerous world, where she inadvertently binds her life to the assassin Ardivous using her nascent abilities and the artifacts she carries.
+* The Unwilling Mentor: Leina and Ardivous navigate their codependent relationship, a tense mix of survival and conflicting loyalties.
+*  Gathering Strength & Allies: Leina's journey involves evading other threats, healing those harmed by the Reds, and discovering individuals with soul-seeking potential, leading to the formation of her resistance.
+* The Offensive: Facing imminent discovery, Leina decides to confront the Protector directly, leading a team to the Oracle.
+* The Confrontation & Unexpected Twist: Leina's attempt to bind with the Protector backfires; the bond unexpectedly includes Ardivous.
+* The Ultimate Sacrifice: Ardivous makes the devastating choice to sacrifice himself, taking the Protector and destabilizing the Oracle.
+* Survival & a Changed World: Leina survives Ardivous's act, returning to a world where the Protector's power is weakened, but the fight is likely not over.
+
 ## Characters
 
 * Madeleina (`Leina`) Grey - a loner who doesn't understand fun. She is the main protagonist of our story. She's smarter & more mature than the kids her age, and most adults. And is very sensitive of the ways her experience lacks behind her theoretical knowledge. For some reason Leina always found the approaches intuitive and strangely familiar, if not a bit off or wrong in subtle ways she couldn't describe.
