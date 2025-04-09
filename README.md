@@ -15,8 +15,8 @@ Our story takes place in an earth-like world called `Orbis`, a land not unlike o
 In this world, magic is not a ubiquitous construct, it is legend; a lost skill, and mostly explainable. While not magic, per say, the world has elements that are naturally fantastical or indistinguishable from magic in their own rights, similar to how science is both explainable and in many ways imperceivable from magical in our world. In this world, there is a lost art called "soul seeking" which is the ability (not unlike the idea of the "Force" from Star Wars). Similar to how Wim Hof might claim to manipulate the temperature or immune response of his body, soul seeking is the deep art and mastery of using one's life energy to catalyze interactions between cells, or invoking such reactions in another. While this phenomenon occurs naturally in the universe and nature, certain materials and areas seem more conducive to performing "soul seeking". One such material is the Oracle Stone, a type of black obsidian rock that behaves almost like a magnet for amplifying or focusing biological signals. On Orbis, there is a massive rock formation of Oracle Stone, simply called, "The Oracle", which extends deep into Orbis's mantle, its gravity concentrating an energy field towards and around it, as might a Tesla Coil.
 
 There is a passage in Leina's soul seeking manual that she takes for granted as gospel, but which she learns no one else seems to know:
-> The Oracle is Death, where souls cease to be.
-> She takes your final breath for eternity.
+> The Oracle is Death, where souls speak no more.
+> Your final breath she seals, beneath the Orbis core. 
 
 ## Concepts
 
