@@ -1,5 +1,7 @@
 # Quintet
 
+<img width="300" src="https://github.com/user-attachments/assets/7c7780f1-441a-4109-8489-faf00aa6c15e">
+
 Quintet is the story of Leina Grey, a young loner girl who is pushed to create a `School of Soul Seeking` prodigies, in order to resist a soulless, authoritarian regime called the Red Shepherds, led by their Protector.
 
 Read the story in tweet-thread form: https://twitter.com/mekarpeles/status/1432731912242614273
