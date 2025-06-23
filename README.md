@@ -20,6 +20,13 @@ There is a passage in Leina's soul seeking manual that she takes for granted as 
 > The Oracle is Death, where souls speak no more.
 > Your final breath she seals, beneath the Orbis core. 
 
+## Nations
+
+* The Red Shepherds (The Reds, The Plague): The aggressive, growing force, akin to a WW2 Axis. They believe in forced unity and assimilation, driven by a conviction that only their path leads humanity to its full potential, conquering weakness, isolation, and apathy. They see the other factions as having failed or holding humanity back.
+* The Nation of Tura (The Turans): A once-dominant power, now clearly losing ground to the Reds, reminiscent of a Greco-Roman empire past its prime.
+* The Wess (of Wessland): A staunchly isolationist faction, likened to Australia, who oppose both the Reds and Tura, striving to remain neutral but firm in their convictions.
+* The (not so) Freefolk: Disparate towns and cities, historically removed, but now in the Reds' path (like the Americas). They are not disunited, but less driven by ambition and more of practicality. They have suffered attacks from the Turans and are seen now by the Reds as squandering potential through indifference and lack of discipline.
+
 ## Pallet
 
 * **Teamwork and Genuine Connection**: The understanding that resistance is a collective endeavor, deeply rooted in the powerful bonds forged when people face dire circumstances together.
