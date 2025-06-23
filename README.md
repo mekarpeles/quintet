@@ -20,6 +20,17 @@ There is a passage in Leina's soul seeking manual that she takes for granted as 
 > The Oracle is Death, where souls speak no more.
 > Your final breath she seals, beneath the Orbis core. 
 
+## Pallet
+
+* **Teamwork and Genuine Connection**: The understanding that resistance is a collective endeavor, deeply rooted in the powerful bonds forged when people face dire circumstances together.
+* **Leadership and Personal Sacrifice**: A stark reminder that progress and change demand individuals to step forward and act, even when it requires profound personal cost.
+* **Meritocracy Over Prejudice**: A foundational principle that age, gender, and race are irrelevant to one's intrinsic worth, ability, or quality, and that ignoring this truth is a critical, costly error.
+* **Subtle, Explainable "Magic" (Emergent Properties)**: The world of Orbis should contain phenomena that appear magical but are, at a deeper level, rooted in complex, perhaps not fully understood, but ultimately logical principles, akin to emergent properties in our own complex universe (like the "mitochondria" explanation in The Matrix).
+* **Imperfection of Heroes**: A rejection of the flawless hero archetype; victories should be messy, often accidental, unfair, or born of chance, and characters, even protagonists, will make mistakes.
+* **Complex Antagonism**: Our villains, however monstrous their actions, will possess discernible (though possibly twisted) internal logic and believable motivations, avoiding cardboard cutout evil.
+* **Uncompromising Character Authenticity**: The narrative will prioritize the integrity of characters' constitutions and actions, even if it means challenging reader comfort, ensuring that choices (like Ardovus's) are true to their established nature, regardless of a character's age or vulnerability.
+* **Reasoned Action Over Blind Faith**: While religion can exist, characters' primary motivations and actions should stem from understandable, logical reasoning rather than unthinking, dogmatic adherence to faith.
+
 ## Concepts
 
 "signatures" in soul seeking – individuals leave a unique energetic imprint. The Red Shepherds are beginning to develop methods to detect these signatures, posing a growing threat to any potential resistance.
