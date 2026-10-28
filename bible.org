@@ -1,0 +1,1889 @@
+#+TITLE: Quintet — World Bible
+#+SUBTITLE: Settled canon, with the author's own language preserved
+
+* How to read this file
+
+Two levels, deliberately.
+
+- *Canon* — the settled thing, written tight. This is what we build on.
+- *In mek's words* — verbatim source language, preserved because the phrasing
+  carries nuance the summary loses. Never paraphrase over these; add beneath them.
+
+The older ~.org~ files (world, characters, plot, notes, quintet) stay as they are:
+spark notes and early drafts. This file is the layer above them.
+
+Sessions are dated. Newest reasoning wins where it conflicts with an older draft.
+
+---
+
+* Terminology (settled 2026-09-13)
+
+| Term | Means |
+|------+-------|
+| *Orackai* | The *writers.* Those who compose and derive rather than recite. Vanishingly rare; effectively extinct. |
+| *soul speakers* | The *practitioners.* The many. They recite, approximate, inherit phrasing. This is what the world still has. |
+| *the Oracle* | The entity. Personified, feminine, /she/. "The Oracle is Death." |
+| *oracle stone* | The material. Unchanged. |
+| *the Vein* | The physical mass reaching into the mantle. The thing you can stand on. |
+| *the Order* | The hidden, pact-bound society. Odile's people. |
+| *the Academy* | Leina's school. A school of soul speaking, led by an Orackai. Runs *alongside* the Order, not inside it. |
+| *Flint* | Leina. Not a nickname -- a category with one member. |
+
+*The etymology, which is a motif because Nume teaches etymology (the coin lesson):*
+"oracle" is what four hundred years of common tongue did to *Orackai* -- and in the
+process the word came off the people and landed on the rock. The name survived by
+leaving them, which is exactly what the world did to them. Leina is one of about
+five people alive who knows this, because her mother made her learn dead languages
+before she was seven.
+
+*Orackai means "speakless speaker" -- one who speaks without speaking* (mek,
+2026-09-13). Which is, precisely and literally, *writing.* The etymology has been
+sitting on the definition the whole time and nobody has heard it in four hundred
+years.
+
+It also pairs the two words in one grammar: the Oracle is speakless because she
+/cannot/; the Orackai are speakless and /do/. Same root, opposite condition -- the
+silence of the dead, and the silence of the living who found the way round.
+Whoever named one named both.
+
+*And it is why they were hanged, beyond politics.* "Where souls speak no more" --
+the dead are speakless. An Orackai does the dead's trick while still breathing.
+Every account says the same surface things (they knew what you had not told them,
+they answered to nobody) and underneath is something much older: they were on the
+wrong side of something and had come back across. Folk horror, not envy.
+
+** She is not an Orackai (mek, 2026-09-13)
+
+#+begin_quote
+She is not an Orackai, she is Flint, and she leads her School of Orackai alongside
+the Order.
+#+end_quote
+
+*SETTLED (mek, 2026-09-13).* She *is* an Orackai. Two registers, no contradiction:
+
+- *Inside the Order* -- where the word is live and carries meaning -- she is an
+  Orackai. A writer.
+- *To the world*, which has not had the word in four hundred years and thinks
+  "oracle" is something to do with a rock, she is **Flint.**
+
+Chosen-one weight, no chosen-one label, because the label only exists in a room
+almost nobody can enter.
+
+*The school is called the Academy.* Plainly. What it *is*, per mek: a school of
+soul speaking, led by an Orackai.
+
+Which sets the division of labour cleanly: **she writes, they speak.** The Academy
+teaches practice, because practice is what can be taught. It is not producing more
+writers -- it is producing the people who can use what she makes. Her loneliness is
+therefore structural rather than sentimental.
+
+*Alongside the Order, not within it.* Two institutions with opposite discipline:
+the Order is old, conservative, slow, and expects betrayal. The School is new,
+growing, and reckless by comparison. That friction is Book II.
+
+---
+
+* Society
+
+** Kids are an investment, and most families can't afford the bet
+
+*Canon.* Having a child is itself a sacrifice for most families. You have one
+because you can't afford not to — a child is labor, insurance, and a lottery
+ticket. Only the wealthy have children whose lives are actually free. Everyone
+else spends their kid on a placement, and the whole childhood is the campaign.
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+I think there needs to be expected that parents partially sacrifice their kids
+towards the value of some global cause. Kind of like, only rich people can have
+kids who have truly free lives. Most people have kids because they can't afford
+not to... And yet, it's as much of a sacrifice *to* have one for most families.
+
+Most kids are competing somehow according to social expectation, to be the most
+significant nobody in a city of nobodies, taking it seriously.
+#+end_quote
+
+Note the target: *the most significant nobody in a city of nobodies.* The
+ambition ceiling is low and everyone takes it deadly seriously. That is the
+Freefolk condition, and it is what the Reds hold in contempt.
+
+** Basics
+
+*Canon.* "Basics" is what every child is expected to finish. It is not a school
+and not a place — it is a *book*.
+
+- Every kid carries a folio.
+- There is a standing list of demonstrations: letters, figures, measures, a
+  soul-seeker's basic read, and so on.
+- Any qualified adult may witness a demonstration and sign it off.
+- Kids do basics *around* their work — gutting fish in the morning, figures when
+  a Counter comes through town.
+- No building, no bell, no clergy, no drill. Unpretentious and practical.
+- You don't *attend* basics. You *finish* them.
+
+*The accountability sits on the guardian.* The guardian presents the book. A
+thin book is a verdict on the adult, not the child. This is how the town holds
+Nume (or Haesius) responsible without ever having to say so out loud.
+
+Some demonstrations are *shared* — presentations, check-ins, team projects.
+See "Team basics" below.
+
+*Narrative function (mek, 2026-08-31).* Basics exists to put Leina in her place.
+
+#+begin_quote
+Basics is a way for the story to put Leina in her place. She is a nobody. Anyone
+who respects her can barely be perceived as a compliment -- she's the best of the
+bottom of the barrel, and even then, the misfits would prefer to be on someone
+else's team.
+#+end_quote
+
+This is not a proving ground and it is not a secret triumph. Leina does not
+quietly win at basics. She is genuinely, publicly nobody, and the only regard
+she earns is the kind that insults you to receive.
+
+** Placements
+
+*Canon.* Finishing basics makes you eligible. Placement is scarce and public
+enough to be gossip. The tracks:
+
+| Track          | What they are                                            |
+|----------------+----------------------------------------------------------|
+| Counters       | figures, tallies, trade, taxation                        |
+| Soul Seekers   | doctors, healers — the closest thing to a learned caste  |
+| Scribes        | copying, record, correspondence, archive                 |
+| Scientists     | inquiry into how things actually work — *what Leina loves* |
+| System Thinkers| engineering-adjacent; how things fit and fail together   |
+
+Everyone else works: fields, boats, salt, gut, oar.
+
+** Team basics
+
+*Canon.* Certain demonstrations can only be signed off as a group. Teams form
+by picking. Nobody picks Leina.
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+I think there should be presentations, events, check-ins wherein basics are a
+shared experience (e.g. working together). It should be known that Leina is
+lame. It should be known that her mother is "crazy", that she has no father, and
+no one would want to be on her team. A kid might yell, maybe if your mother
+bought you a bar of soap instead of a useless book about [foreign maps] then
+someone other than e.g. orphans would want to be on her team.
+
+What might teaming up look like? Mapping (finding hidden targets), team
+gardening (students often sabotage, Leina would simply grow back-ups
+elsewhere), written history projects (from the library), and fitness challenges
+(where many weaklings could be expected to get moderately hurt).
+#+end_quote
+
+The four known team formats:
+
+1. *Mapping* — finding hidden targets in the country around the town.
+2. *Gardening* — a plot per team. Sabotage is routine and unpunished. Leina
+   simply grows backups somewhere nobody knows about.
+3. *Written histories* — sourced from the library. Smithens territory.
+4. *Fitness challenges* — where the weak can be expected to get moderately hurt.
+
+---
+
+* Nume Moore Grey
+
+** She is terrified, and she is right
+
+*Canon.* Nume is not ambitious for Leina and is not preparing a candidate. She
+is *afraid*, and the fear is warranted. She is also, if anything, holding back.
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+Nume was a soul seeker that was forced into the equivalent of disability or
+retirement for being impossible to work with, having challenging ideas; it
+could almost be seen as being on the spectrum, extremely high anxiety, heightened
+awareness, however she is far, far from crazy and internally sees things with a
+level of holistic clarity, strategy, big picture, huge brain that not even Leina
+will be able to appreciate.
+
+Even Leina, perhaps the smartest person ever to be forced to be for her age, the
+person who has lived with Nume and been shown an open hand of cards, is not able
+to connect the dots that are given to her... Nume can see the delta between what
+she knows and what Leina must be prepared for, in order for society to have a
+chance, and in actuality, it seems fair to the narrator/DM/me that Nume's
+anxiety is justified and that, if it's possible to concede, Nume is being
+reserved and if Nume wants there to be even the slightest chance of a world that
+doesn't end in ruin, Leina must be pushed magnitudes harder than she is, and
+Nume can't possibly let her know that, thus the state of justified existential
+dread, and the similarly warranted sense of insanity to outsiders.
+#+end_quote
+
+Key consequences:
+- Nume shows Leina an *open hand of cards* and Leina still cannot connect them.
+  The withholding is not deception; it's that the picture requires a mind Leina
+  doesn't have yet.
+- Nume is *under*-pushing relative to what she believes is needed. She is
+  restraining herself. That is the source of the dread.
+- To outsiders this reads as insanity, and that reading is warranted from
+  outside. Both things are true at once.
+
+** Leina is the archive
+
+*Canon.* Nume's purpose for Leina is custodial. Leina is a place to hide and
+dump learnings and capability, to protect ideals larger than Nume herself.
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+Nume knows things and Leina is her bus number. Nume wants to be a loving mother,
+but that presents so far down the list because the reality is, Leina is part of a
+complex insurance policy; a way to hide and dump learnings and capability, to
+protect ideals that are bigger than Nume.
+#+end_quote
+
+*Derived (proposed, 2026-08-31).* This reframes the recall drills. Paper burns
+and houses get searched; a child's memory does not. Nume's rage when Leina
+cannot recall the twentieth word on a page in a given language is not
+perfectionism — it is a woman *verifying a backup*. Nume is not teaching Leina.
+She is writing to her.
+
+Which makes the library a decoy and the girl the actual asset. And makes "wants
+to be a loving mother but it presents far down the list" not coldness, but a
+custodian who cannot afford to think of the archive as her daughter.
+
+** The town's read on Nume
+
+*Canon.* The town does not find Nume frightening. The town finds her *lazy*.
+
+A slattern who reads too much, let her house go, and never did right by her
+girl. This is the cover working perfectly, and it is unbearable for Leina, who
+must sit and hear the hardest-working person alive called idle and say nothing.
+
+---
+
+* Leina Grey
+
+** Metalusion
+
+*Canon — mek's coinage, keep the word.*
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+I think Leina somehow needs to feel that she's building these unreasonable
+resources out of some degree of un-named pressure (a form of brain-washed by her
+mother... I think of it as meta-delusion or metalusion... Leina knows exactly
+that her mother's pressure is crazy, Leina doesn't buy into it blindly, but
+something nags at her, telling her the logic makes sense and she'd be a fool to
+go against it just because her mother is impossibly annoying and borderline
+hurtful and a strange type of tiger-mom abusive).
+#+end_quote
+
+She is not brainwashed. She is *convinced against her will*, which is worse,
+because she cannot even enjoy resenting it cleanly.
+
+** Her instruction: be written off
+
+*Canon.* Nume's expectation is that Leina participate just enough to be
+discounted — almost hated, entirely unremarkable. Leina understands the
+assignment and executes it.
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+Nume's expectation is that Leina participate just enough to almost be hated in
+this game and discounted (what's the expression? written off). Leina is smart
+enough to know her role.
+#+end_quote
+
+*Derived (proposed).* Her basics folio is therefore *complete and utterly
+unremarkable.* Never truant — truancy is memorable. Every demonstration signed,
+every one marked adequate. The most boring book in Westhaven.
+
+Signed by Smithens. And Yitna. And Cudner. Who know exactly what she is, write
+*adequate*, and hand it back. The first conspiracy of her life, conducted
+entirely in civic passive voice.
+
+** Her invisible network
+
+*Canon.* Leina's relationships with certain adults are clandestine,
+sophisticated, and mutually understood. Age is never the issue; protecting the
+asset is.
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+Leina is strategic with those in the city she builds relationships... Their
+relationships are almost themselves clandestine. These adults understand the
+sensitivity and sophistication of Leina's strategy. Leina (through her mother's
+push) has developed these relationships in a way that Leina knows are safe,
+strategic (this is bidirectionally felt). In every society, there are many games
+being played. Even though Leina is a kid, she is playing a version where she is
+building security... Security that even her mother doesn't know about... A game
+of allegiances and secrets that are so valuable and self evident, that no one
+questions the age: the only concern is protecting these sacred relationships and
+assets that are invisible and can't be touched.
+#+end_quote
+
+Known nodes: Samuel Smithens (librarian), Dr. Yitna (healer), Mrs. Cudner
+(teller/grain), Gibbon James (carpenter), Johan Lemeus (ex-Colonel, coerced
+rather than allied). Melinda is a separate case — see below.
+
+** What Leina wants
+
+*Canon (mek, 2026-09-02).* Answers weakness #1.
+#+begin_quote
+She doesn't know. She's been convinced and has internalized as truth that there
+are a million things she must do before she can answer that. She wants safety.
+She wants independence. Her mother and then Ardovus give her anything but. She
+wants to learn and explore. But who she is, is enough to give the world incentive
+to not leave her alone. She needs money that cannot be taken away, she needs a
+way to survive famine, she needs a way to defend her person physically, she needs
+a way to confuse those who are after her, she needs to understand the ways of the
+oracle stone, of politics, and of the world so she may survive. And this
+perceived need pecks at her and sometimes surfaces as a bruise that looks like
+resentment. She'd like to put her guard down, but even a talented soul speaker or
+a stiff drink would have difficulty achieving this. The irony is, any step forward
+towards this security makes her a bigger target and liability.
+#+end_quote
+
+The prerequisite list is the plot engine -- each item is a sequence of scenes:
+money that cannot be taken, famine-proofing, physical defence, obfuscation,
+the stone, politics, the world.
+
+*The irony is the engine of all three books:* every step toward security enlarges
+the target. Her competence is what makes her hunted. She cannot solve her way out
+because solving is the problem.
+
+*Craft note.* The want is real but entirely instrumental -- safety so she can be
+left alone, which loops back to inaction. So the reader must be shown the life she
+would choose while she herself never names it. Not a stated goal; a *glimpse*, and
+preferably an involuntary one. Candidate: she brushes Melinda's hair. Melinda
+offers once to brush hers. Leina says no. Nothing is explained and the whole want
+is in the refusal.
+
+** Her name — "the margin"
+
+*Brief (mek, 2026-09-01):* Leina must earn a name. Unassuming. Most people never
+deal with her directly, so she has to perform miracles surreptitiously.
+
+*Proposed (2026-09-01), pending mek.* **The margin.**
+
+It begins as a deflection, not a title. Someone gets a remedy that works when
+nothing else did and asks Dr. Yitna where she had it from. Yitna cannot say *a
+twelve-year-old*, so she says it came from the margin — meaning the marginalia,
+the notes in the book, not from any physician. It is a way of saying *I am not
+telling you.*
+
+Then it hardens. Within a year people are asking whether a thing has been *put
+to the margin* yet.
+
+Why it fits: it is an insult if you don't know. Marginal means negligible, at the
+edge, written off — the town's read on her, verbatim, sitting inside the only
+name she will ever earn. She hears it said in front of her once and has to keep
+her face still.
+
+** The placement critique
+
+*Canon.* The verdict read to her at placement, in substance:
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+"Your mother is insane and lazy, and you can't focus, have no money, no
+connections, and your lack of drive makes you unfit. And your mother has
+obviously given up on you, you're a bad influence"
+#+end_quote
+
+The knife is *"no connections."* Leina has the best connections in Westhaven —
+Smithens, Yitna, Cudner are exactly the people whose word would carry at a
+placement board. Every one would speak for her. Not one can be allowed to,
+because an asset stops being an asset the moment it is visible. She sits there
+uncredentialed by the only people who know what she is.
+
+** Her placement
+
+*Proposed (2026-08-31), pending mek.* Leina passes basics and places to *scribe*,
+under her own uncle Haesius.
+
+- Strategically ideal: she is *paid* to read everything, all day, as a duty.
+- Socially perfect cover: reads as nepotism and pity. The lazy option. The girl
+  her mother gave up on, whose uncle took her in.
+- And it costs her: she wanted *Scientist*. Badly.
+
+Open: who took the Scientist placement instead?
+
+---
+
+* Melinda Sauveneux
+
+*Canon.* The one exception to Leina being unpicked, and the story's quietest
+horror: Leina has done to Melinda a smaller version of what Nume did to Leina.
+
+*In mek's words (2026-08-31):*
+#+begin_quote
+Melinda is an exception because Leina has groomed her almost like Nume groomed
+Leina. Melinda mostly wants a friend. She is not especially talented or bright,
+and is happy enough that Leina wants to "arrange" a relationship between them. In
+the process, Melinda benefits and learns a lot, though she doesn't internalize it
+as such... And so it never feels like the relationship is abusive (though others
+might be keen in seeing it so).
+#+end_quote
+
+*Her family (mek, 2026-08-31).*
+#+begin_quote
+Melinda's parents have several kids and pay no attention to Melinda. They had
+kids because they couldn't make ends meet, and the thing they thought would fix
+their situation made it more unmanageable.
+#+end_quote
+
+They are the kids-as-investment economy failing in the ordinary way. Neglect by
+arithmetic, not cruelty. Consequence: the arrangement has *no objector* — her
+parents are quietly relieved, since a day Leina keeps Melinda is a day they feed
+one fewer. Which makes Leina, at twelve, functionally the only adult in
+Melinda's life.
+
+*Nume's angle on it (mek, 2026-08-31).* Nume is not a moral observer here and
+will never raise it as a question of decency.
+#+begin_quote
+Nume is not in the business of being a mother. She has blinders for anything
+that isn't Leina. If Leina has an arrangement with Melinda, it would only come up
+if Nume thought there was a lesson; e.g. what are the terms of your arrangement?
+Are they in your favor? Is this a liability or risk to you? Are you divulging
+secrets?
+#+end_quote
+
+So the scene, when it comes, is an audit: terms, asymmetry, exposure, leakage.
+Never once "is she your friend." And Leina answers competently, because she has
+the terms ready.
+
+*Why Leina never lies to Nume (mek, 2026-08-31).*
+#+begin_quote
+Leina has no reason to lie to her mother. It's not productive. Either answer is
+met with the same degree of exhausting interrogation. At least when Leina is
+honest, she is able to benefit from the calculus of the discussion.
+#+end_quote
+
+*How Leina deals with Melinda (mek, 2026-08-31).* Not strategically — she is
+transparently fair in a way that clearly benefits herself.
+#+begin_quote
+"Melinda, I need you to pick these herbs. You will get five coppers. I will get
+fifteen. If you don't, you'll get zero coppers."
+#+end_quote
+
+The split is always stated out loud. Nothing is concealed and nothing is
+softened. This is the true inheritance from Nume — not manipulation, but *total
+disclosure that does not alter the asymmetry.* Nume showed Leina an open hand of
+cards; Leina shows Melinda one too.
+
+It is also why Leina sincerely believes she is a fair person, and why she is not
+wrong: she is scrupulously fair by the terms she names. She simply gets to name
+them, and nobody else in Blackmoor is bidding for Melinda at all.
+
+*Affection is real, and it is also on the ledger (mek, 2026-08-31).*
+#+begin_quote
+A key difference is Leina does show Melinda affection. She will do things like
+brush her hair. She wants Melinda to know that she has no reason to be unkind,
+that both she understands Melinda wants friendship, and Leina intimately has
+learned through first-hand experience that being warm is a form of strategy and
+motivation her mother has not internalized. Leina has even grown to appreciate
+Melinda, almost like a younger sister. But at the same time, while Melinda's
+well being might give Leina a moment of pause, all roads motivate her to reinforce
+the relationship as transactional. All resources must be accounted for and none
+should be a liability.
+#+end_quote
+
+*Derived.* Leina has not escaped Nume — she has *optimized* her. Nume's method
+worked and cost her everything because it had no warmth in it; Leina found the
+bug and patched it. She is a strictly better version of her mother's program at
+twelve, which is far worse than rebellion.
+
+And Nume's unanswerable question — *was the love real* — Leina has already
+resolved by refusing to ask it. Both answers produce the same action, so the
+question is inefficient. This is the flaw that nearly kills her later, working
+beautifully at twelve.
+
+*ANSWERED 2026-09-05 — see ~scenes/001-the-smithendex.org~.* Samuel Smithens.
+He moved a chair to the fire, gave her tea, asked her a real question, and wrote
+her answer down because he thought it was worth having. He was not running
+anything — he was simply kind, and it worked better than anything Nume ever did
+to her. She walked home doing the arithmetic on it and used it on Melinda that
+Thursday. What it cost her: she never again received a kindness without pricing
+it, including that one.
+
+Rules for writing her:
+- Melinda is *not* bright and *not* talented. Resist the urge to give her a
+  hidden gift. Her value to the story is that she has none and is loved anyway.
+- She wanted a friend and got an arrangement, and is content with the trade
+  because she does not perceive it as a trade.
+- She does learn, substantially, and never files it as learning.
+- The relationship must never read as abusive on the page. It reads as warm.
+  Other characters may see it differently, and they are not wrong.
+
+---
+
+* The Academy — timing (correction, 2026-08-31)
+
+*Canon.* The Academy is *not* a childhood thing and has no seed in basics. It
+comes years later.
+
+#+begin_quote
+[The Academy] comes years later. After her mother is brutally murdered, after she
+is half abducted, half on the run with the assassin. The academy is her response
+to surviving, to politicking, to strategizing and building relationships to stay
+a step ahead, since the assassin cannot (any relationship building he does is
+either attempted via/with the Reds or is at his own disadvantage, so he is
+between a rock and a hard place).
+#+end_quote
+
+The load-bearing part: *relationship-building is a capability Ardovus does not
+have.* His only channels are the Reds, or deals struck from weakness. Leina's
+network is the one asset in the partnership he cannot supply, which is precisely
+why the Academy becomes necessary and why it becomes hers.
+
+---
+
+* Soul Speaking
+
+*Canon (mek, 2026-09-01).* Settled on *Speaker* over *Seeker* — it makes the
+practice a **language**, which is the load-bearing metaphor.
+
+#+begin_quote
+All of Orbis knows of soul speaking, but the notion of mastering the practice is
+just out of reach, practiced, ritualized, approximated, and experimented on, but
+not intimately understood from first principles. Nume and her father, and perhaps
+other important figures from the past had pieces of the puzzle.
+
+Leina is not a speaker, she is a writer of the words that are spoken. In its
+loosest interpretation, bound by certain constraints and in certain contexts, she
+almost has the means to direct biology... And not only within herself. But each
+step forward, each advancement must be earned; requires deriving a new equation,
+unlocking the problem... And she's up against teams who are brute forcing the
+space.
+#+end_quote
+
+- Speakers *recite* — inherited phrasing, ritual, approximation, nobody knows why
+  it works.
+- Leina *writes* — she has grammar, not vocabulary. She composes new utterances.
+- Every advance is earned by derivation. Nothing is granted. This is the pacing
+  engine: progress is slow, hard, and always costs.
+
+** Oracles (the people)
+
+*Canon (mek, 2026-09-01).* Correction to the "lost language" framing: it was not
+attrition, it was persecution. And mastery was always partial and always
+contested.
+
+#+begin_quote
+The past should remember of soul speakers who claimed to speak to the soul, to
+feel or connect with the essence of life. Not magic. A transfer of information,
+of energy. The language of life. Those few who were perceived to have exceptional
+understanding or mastery were called Oracles. In today's age, to call oneself an
+Oracle is to invite an end worse than death. Capture, experimentation,
+servitude. There were fabled ages when Oracles brought prosperity. But in all
+cases, Oracles were different. They were threats. They had undeserved power, they
+were intrusive, unknown, secretive. And more than anything, they were a threat to
+those who coveted power. Their books were burned, they were hanged, they were
+forced into hiding.
+#+end_quote
+
+- Keep it *un-literal*. Not incantation. Listening and answering; a transfer where
+  transfer has no business happening.
+- Even the greatest Oracles said the same thing: there is a language here and I
+  have only a little of it. Nobody ever had it whole.
+- The persecution was never a single purge. A bad winter, a suspicious death, an
+  inconvenienced lord. Books burned a few at a time.
+- *Derived (proposed):* this is why the Reds are tolerated and even welcomed.
+  The Protector's public justification is that he finds Oracles and makes sure
+  there is never another age of them. He is *popular*. Ordinary people sleep
+  better. That is what makes the title "Protector" work.
+
+* The Manual — the Half-Blood Prince problem
+
+*Open (mek, 2026-09-01).* The family's Soul Speaker's Manual works like Harry's
+Potions book: the printed text is the received, approximated ritual, and the
+margins are somebody who worked out *why* it works and corrected it line by line.
+Why and how is still to be figured out.
+
+*Canon (mek, 2026-09-01) — the Manual is a household book.*
+#+begin_quote
+I do like the idea of the soul speaker's manual becoming a standard book in
+everyone's home. And that over time there would be different versions. Some
+(books and people) were taken. Some were burned to make an example. In this
+"LOTR" type case, there is no one right. There is just the Oracle Stone and
+people with affinity. No one other than the Reds and the Protector are supposed
+to have Oracle Stone. Or have Soul Speaker's manuals that diverge from what is
+not published.
+#+end_quote
+
+*Rejected (mek, 2026-09-02): the town-square edition check.* "The square idea is
+no good at all. Think about who Nume is, this idea is laughable." Correct -- a
+public, announced, bureaucratic sweep is a threat Nume would have neutralised a
+decade before it arrived. Any pressure that her competence can simply out-prepare
+is not pressure. Nume being a "traditional" healer by trade is fine and stands.
+
+Contraband status stands (divergent Manuals, and Oracle Stone held by anyone but
+the Reds). What is rejected is *enforcement by public procedure.*
+
+This replaces the single-sacred-artifact framing. Consequences:
+
+- A Manual is on the shelf in every house in Orbis, between the almanac and the
+  accounts. It comes down for fevers and difficult births. Utterly ordinary.
+- Four hundred years of hand-copying produced *divergent editions*. Yours is not
+  your neighbour's.
+- *There is no correct text and never was.* No lost perfect knowledge to recover.
+  Only the Oracle Stone, people with affinity, and centuries of ordinary people
+  writing notes in the margins and mostly being wrong.
+- Contraband is defined two ways, and both are now Red law:
+  1. Any Manual that diverges from the published Red edition.
+  2. Any Oracle Stone held by anyone but the Reds and the Protector.
+- Enforcement is a *civic procedure*, not a raid: bring your book to the square,
+  it is checked against the authorized edition, you take it home or you do not.
+  Bring your stone in as well.
+- Therefore Leina's necklace -- a large trillion cut of Oracle Stone worn openly
+  -- is standing contraband. Weight this as constant ambient danger.
+- Books and people were both taken; some were burned to make an example.
+
+Working proposal: two hands in the margins, in different inks, arguing across
+decades — Nume's father (a Moore) and Alistair. Which would explain why Leina
+always found the text "a bit off in ways she couldn't describe": she has been
+reading the corrections and the errors simultaneously since she could read.
+
+* The Protector
+
+*Canon (mek, 2026-09-01).*
+#+begin_quote
+The Reds being brokers in the game of other lands fighting each other. But
+ultimately, the Protector wants to make the oracle as powerful as possible and to
+exclusively wield it. He gives others items of oracle, but over the years the
+protector has implanted oracle stone... And also personally taken many, many
+lives, contributing to a connection with the stone. This connection *might* also
+make one easier to access through speaking. The Protector is very much like
+Sauron and needs a backstory that is iron clad, unsavable, beyond hope, pure
+evil, believable.
+#+end_quote
+
+*Proposed (2026-09-01), pending mek.* Three layers:
+
+1. *What the world sees.* A unification movement — order, discipline, an end to
+   waste. Also arms and brokers between Tura and the rest, profitably.
+2. *What the Reds believe.* They will master soul speaking. Medicine, longevity,
+   better soldiers. Hence the hunt for annotated Manuals.
+3. *The actual end.* Every soul ever spent is still in the Oracle. He is not
+   chasing immortality — he is after the **labor of the dead**: every skill,
+   every hour, every capability anyone ever had, sitting there unclaimed.
+   He is strip-mining the afterlife.
+
+Consequences:
+- The wars are not for territory. Brokering other lands' conflicts is *harvest*.
+  Every death fills the Oracle. "Thousands sacrificed" is not cost, it is deposit.
+- His contempt for the Freefolk is sincere and consistent: a fisherman who lives
+  quietly and dies at seventy has *squandered* seventy years. Better to spend him.
+  He would say so kindly.
+- *Backstory:* he was a Speaker who hit the same wall as everyone else. The
+  language is broken, nobody can derive it, approximation is all there is. Rather
+  than accept the loss, he decided to make the Oracle loud enough that clumsy
+  speech would suffice. He is not solving the equation — he is amplifying the
+  signal until brute force works. And it does, because he has unlimited corpses.
+- He is the exact inverse of Leina, who has no corpses and must derive every line.
+- *The flaw:* every life he takes personally deepens his connection to the stone.
+  Connection is power and it is an open channel. Forty years of it have made him
+  the loudest, most legible thing on Orbis — the easiest person alive to speak to.
+
+* Nume's compartmentalization
+
+*Canon (mek, 2026-09-01).*
+#+begin_quote
+Nume has an Oracle stone necklace. There are secrets even Nume keeps from Leina
+because, for lack of better words, Leina might rightfully crack to torture
+whereas Nume could and would find a way to break her own mind to death.
+#+end_quote
+
+The withholding is operational security, not mistrust. Nume has rated her
+daughter's resistance honestly and acted on the number. She would destroy her own
+mind before talking; she does not believe a twelve-year-old could, and she is
+right.
+
+---
+
+* Scenes
+
+Drafted scenes live in ~scenes/~, one file each, with a Microscope card at the top
+(Question / Answer / period / tone / setting / characters).
+
+- ~scenes/001-the-smithendex.org~ — Smithens, the library, the tea. Answers who
+  was first warm to Leina and what it cost her.
+- ~scenes/002-no-cause-found.org~ — the Weekly, the twentieth word, the notebook.
+  Answers what Leina thought her mother's madness was. (mek: "wow, I love this
+  idea.")
+- ~scenes/003-no-marker.org~ — Haesius, the bookmark, child-Nume reciting a page
+  in her nightdress. Reframes the uncle: not spineless, *conditioned.* (mek: "not
+  bad!")
+- ~scenes/004-thirty-days.org~ — Ardovus at a Red maintenance station. His heart,
+  the lease, the performance review. First draft rejected as unreadable
+  (atmosphere with no facts); rewritten with the arrangement stated plainly.
+
+* Texture (small scenes, not Events)
+
+mek (2026-09-01): the garden "does not seem like a notable event." Demoted from
+Events to texture — it is a good scene, not a thing that changes the period.
+
+** The Second Garden
+*Tone: Dark.*
+
+Someone salts the team plot three weeks before the gardening check-in. This is
+routine; the bottom teams always get salted and nobody is punished for it.
+
+Leina has a second bed a mile past the treeline, planted the same week as the
+first, never mentioned to anyone. It is thriving.
+
+She spends that night on the arithmetic. Then again. Then a third time on a clean
+sheet from the beginning, because the first two came out the same and she is
+looking for the version where she gets to bring the vegetables. She does not find
+it. She is twelve, and she sits at her uncle's desk until the candle gutters,
+hunting for permission from a page that will not give it to her.
+
+At the check-in, Melinda cries. Leina stands beside her with her hands at her
+sides. People are watching, so she does not touch her.
+
+She goes out to the second garden every day that week. Weeds it. Waters it. Keeps
+it perfect. For nobody.
+
+The team is marked short. Her folio says *adequate*.
+
+*Scene — what happens to the vegetables?* (mek: "She obviously sells them.")
+She sells them through Melinda. Melinda carries the basket to market, brings back
+twenty coppers; five for her, fifteen for Leina, stated out loud as always.
+Melinda is pleased — it is the most she has earned in a month, and she never
+learns where the vegetables came from. Leina puts the fifteen into Cudner's
+grain, because every humiliation has to be converted into something or it was
+just pain.
+
+*Note on tone (mek, 2026-08-31):* "Leina is a creature of pain, she has to really
+work hard to compartmentalize. She is 12 and it hurts." Do not write her cold.
+The compartmentalizing must read as visible effort, not as composure.
+
+---
+
+* The spine (1000-foot) — proposed 2026-08-31
+
+Nume is not raising a daughter. She is making a **cache**. She knows something she
+cannot write down and cannot tell anyone, so she puts it in the only container
+that cannot be burned or searched: a child's head. The instruction that comes
+with it is *be nobody* — finish basics adequately, take a dull placement, be
+written off, wait. A cache is only safe while nobody knows it is there.
+
+Then Ardovus kills Nume, and the plan breaks, because *be nobody* only worked
+while Nume was alive to hold the other end of it.
+
+Leina becomes a cache with no reader, on the run, chained to a dying man who
+cannot make a single ally without going through the people hunting her.
+Invisibility stops being survivable. Every single thing she does from that page
+onward violates her mother's design — she gets known, she makes allies, she
+becomes exactly the somebody Nume spent twelve years hiding.
+
+That is what the Academy is. Not a school, a **distribution**. She does to five
+people what her mother did to her: writes herself into them so no one death loses
+it. The tattoo is not a club badge, it is a copy pointer.
+
+Nume's answer to the Reds was *hide one copy.* Leina's is *many copies,
+connected.* Both are correct responses to the same threat; the daughter's is
+better, and it is the one thing Nume could never have conceived, because she
+trusted nobody.
+
+Which is why the ending lands: the Protector centralized everything into himself
+— the biggest cache ever built. Ardovus takes him out, and a cache with one copy
+is simply gone. Leina lives because she had already distributed.
+
+She never finds out whether her mother would have called that the point or the
+betrayal.
+
+---
+
+* The Tome, the Network, and the Binding
+
+*Canon-in-progress (mek, 2026-09-02).* Supersedes the "list of names" mechanism,
+which is rejected. A list may still exist but must be a separate thing from the
+book.
+
+#+begin_quote
+The list should be completely different from this book. The book should be
+something that has been hidden and contributed to for hundreds of years, maybe
+even longer, pages re-written and stuck in... Maybe some of it is even encrypted
+or written cryptically. Maybe Leina has a tattoo or something that is part of a
+legend? Or very specifically her mother's oracle stone? Lots of possibilities. It
+doesn't explain why there would only be one book. It needs to represent the
+efforts of many, many (but few) people. Nume was entrusted to be the keeper of
+the full tome, there are bits and pieces archived elsewhere (kind of like the
+lesser rings of power), trusted to individuals. Some of them misused their power.
+There's a secret network, I wouldn't say a cult, and maybe Nume was appointed as
+the one to keep this book safe at all costs, basically the unbreakable curse,
+perhaps not too different from the one her daughter discovers. Maybe something
+about this explains why Alistair and Nume could no longer be together. Does
+Alistair die defending Nume? Does he pull a professor snape and pretend to be on
+both teams? I actually think this might work the best.
+#+end_quote
+
+Also liked, from the previous exchange: *Nume watching her peers disappear one at
+a time, without Leina fully understanding what she is seeing.* And *Nume and
+Alistair meeting through a "program."*
+
+** What this settles
+
+- *Why there is only one.* The tome is not a copy of anything. It is an
+  *accumulation* -- centuries of separate contributors, each adding what they
+  derived, pages rewritten and sewn in, hands overwriting hands, parts of it
+  cryptic or enciphered. It is one because it *is* the aggregate. Every other
+  holding in the world is a fragment.
+- *The household Manual still stands*, as the debased public descendant. Every
+  house has one, mostly wrong. Almost nobody knows there is a tome. The tome
+  passes as just another beat-up family copy.
+- *The architecture (mek, 2026-09-02).* Not centralisation vs. decentralisation --
+  that framing is rejected, twice now. Stop reaching for it.
+  #+begin_quote
+  I think no one other than Nume, and maybe Alistair, can know fully who has *the*
+  book. Maybe that's part of the defense. Maybe Nume isn't the only one bound to
+  the survival of the book. Maybe it's just that her book is the real one.
+  #+end_quote
+  The defence is not dispersal. It is *ignorance*. There are many keepers, all
+  bound, all holding a book, and none of them knows which one is real -- possibly
+  not even about themselves. Decoys who do not know they are decoys, bound just as
+  hard, dying just as hard, for a copy.
+- *Consequence: the guilt engine.* People have been taken and killed protecting
+  worthless books, believing to the end. Nume has watched it happen -- her peers
+  disappearing one at a time -- knowing she is the one it is actually about, and
+  she can never tell any of them.
+- *Consequence: the Reds' search is genuinely hard.* They keep finding "the
+  book." It keeps being wrong. So they keep escalating.
+- *Nume is bound.* Appointed keeper under a binding -- keep it safe at all costs.
+  Not unlike the binding Leina later improvises on Ardovus. Nume does not merely
+  choose her obsessiveness; she is compelled, and cannot tell where the binding
+  ends and she begins. This is the exact parallel to Leina's own unanswerable
+  question about whether the love was real.
+- *Leina reinvents her mother's chain without knowing it existed.* She derives
+  the binding in a kitchen at twelve, from a lifetime of watching Nume behave like
+  a woman who could not put something down.
+
+** Alistair (mek prefers the Snape version)
+
+He was in the program and on the network -- a contributor; his hand is in the
+margins. He went to the Reds. Whether the defection was real is the open
+question of Books II-III, and Leina must live for a long time not knowing.
+
+*Why they could no longer be together:* contact would have exposed the
+arrangement. They separated to protect the tome, not because the marriage failed.
+Leina grew up believing she was abandoned.
+
+*And the horror:* Leina was raised on annotations written by a man the world
+calls a traitor.
+
+*The countdown is Alistair, not a list.* If he and Nume are the only two who know
+which book is real, then Nume has spent twelve years aware that the one person who
+could give her up is on the other side and has not. Every day he stays silent is a
+day she lives. She cannot know why -- love, strategy, or that he is already dead.
+That is her deadline, and it has no fixed date, which is worse.
+
+And when the assassin finally arrives, the question that detonates is: did
+Alistair break? Did he send him? Or did he die and the secret come out with him?
+Leina inherits that question and cannot answer it for three books.
+
+*Open:* does he die defending Nume? Is the grave even occupied? What is in the
+box at it?
+
+** Alistair and the Protector
+
+*Canon (mek, 2026-09-02).*
+#+begin_quote
+I really like the snape play; everything he does (or did) is in the service of
+Nume and Leina... And conflicted with the role "the Order" has demanded of him.
+Maybe he was never on the inside, by his own design. Nume was his connection. He
+has tricks but isn't a writer.
+#+end_quote
+
+So: Alistair was never a member of the Order. He kept himself outside it
+deliberately. Nume was his only tie to it. The Order therefore cannot compel him
+and cannot protect him -- everything he ever did was personal, not institutional.
+
+*Proposed (2026-09-02), pending mek:*
+
+- *REJECTED (mek, 2026-09-02): the "same man at a fork" pairing.* It gives the
+  Protector a wound and a grudge. He is to have neither. See "The Protector has no
+  reasons" below. Alistair's Snape play stands on its own without a personal tie
+  to the Protector.
+- *Alistair is the reason the Protector knows the real book exists.* He did not
+  hand anything over. Early, before he understood what he was near, he let slip
+  that there was one. The entire search -- the assassins, the escalation, Nume's
+  death -- traces to one sentence. His whole life since has been a containment
+  operation on his own mouth. It is also why he is famous and why nobody can
+  agree whether he was traitor, fool, or plant.
+- *He ran the search.* Not a writer, so what he could sell the Reds was access,
+  judgement, and misdirection. For twenty years he was the man in charge of
+  finding the real book, and he is the reason they never found it. Proximity to
+  him was the danger, which is why he and Nume could not be together -- not a
+  failed marriage, an evacuation.
+- *Therefore his removal is the inciting incident, and it happens off the page
+  before chapter one.* Alistair dies or is displaced; the search passes to someone
+  else; Ardovus is on the road within the year. That is why the story starts when
+  it starts.
+- *His marginalia is not derivation.* Two kinds of hand in the tome: centuries of
+  Oracles deriving, and Alistair's, which is *intelligence* -- who moved, who was
+  taken, what he saw, who not to trust. Leina spent her childhood memorising a
+  spy's field notes and was told it was medicine.
+
+** Still open
+
+- Leina's tattoo / legend, or Nume's Oracle stone specifically, as the token of
+  the keeper.
+- Naming: the network, the program, the tome.
+- If a "list" exists at all, what it is and who holds it.
+
+---
+
+* The Protector has no reasons
+
+*Canon (mek, 2026-09-02).* "Pure evil has no reasons. That is who I need the
+Protector to be. How to make Sauron and Voldemort look like children."
+
+This overrides the earlier README line about villains having discernible internal
+logic, *for him specifically.* The Reds below him still have motives. He does not.
+
+** Why Sauron and Voldemort are small
+
+Both have a handle on them. Sauron *wants* dominion -- a want can be frustrated.
+Voldemort *fears* death -- and his fear is his entire plot, which makes him
+pitiable the moment you see it. Each has a project you can name, and therefore
+thwart.
+
+** What replaces it
+
+- *No want, no fear.* He is not working toward a state. There is no "after." He
+  is not building an empire; an empire is a by-product. Take anything from him and
+  he does not react, because nothing was load-bearing.
+- *He is not cruel.* Cruelty is a relationship -- it requires granting the other
+  person an interior. He does not. People are material. He has never once been
+  angry, and this is far worse than rage.
+- *No courtesy either.* (Corrected 2026-09-02, mek: "why would the protector do
+  that. there's no reason. empathy doesn't afford the protector anything.")
+  Manners are a bid for relationship -- they imply modelling the other person as
+  worth managing. Cut them. What is left is not warmth and not menace:
+  - No theatre, no threats, no monologue, no small talk. Small talk is a bid.
+  - Unhurried, because nothing is at stake.
+  - *Does not lie.* Not on principle -- deception is a service you perform for
+    someone whose behaviour still matters to you. It will answer any question
+    truthfully and completely, because honesty is cheaper.
+  - Stops mid-sentence when you cease to be relevant. No goodbye; goodbyes are
+    for relationships that continue.
+- *No origin.* There is no boy who was hurt. Nobody can find where he came from,
+  and the absence is the horror rather than a mystery to be solved. Do not, at any
+  point, supply a backstory that explains him.
+- *He cannot be thwarted, only allowed to consume himself.* You do not beat an
+  appetite by taking something away from it.
+
+** The mechanism (mek, 2026-09-02)
+
+#+begin_quote
+The oracle stone is poisoning a man who has claimed so many lives that it's
+almost as if the Oracle Stone is integrating his presence. It's like a parasite,
+but unfortunately for the rest of the world, the Protector is incredibly cogent
+and seems extremely willing to have his humanity ripped from skin and bone. It's
+fair to say for all intents and purposes the Protector is the dominant of the two
+forces, but he sacrifices much of his "self" in the process, and self means
+divorcing himself from what "life" means and the qualities and attributes that
+guide it.
+#+end_quote
+
+*Corrections to earlier drafts of this section -- get these right:*
+
+- He is *not* hollowed out, deleted, or absent. He is **incredibly cogent.** Fully
+  present, fully sharp, first-class intellect intact.
+- The integration is *not* happening to him. He is **the dominant of the two
+  forces.** He is using the stone; it is not using him. The world would be luckier
+  if the parasite were winning. It is not.
+- He is **extremely willing.** The humanity is not lost, it is *given* -- ripped
+  from skin and bone, repeatedly, gladly, and he considers the trade obviously
+  worth making.
+- What he sacrifices is *self*, and self here means his connection to what life
+  means and to the qualities and attributes that guide it.
+
+So the reasonlessness is not vacancy. Reasons are downstream of valuing
+something; he has excised the part that values, and retained every other faculty
+at full power. Not motiveless like a rock -- motiveless like a man who removed the
+organ that generates motives and kept the rest of the machine running perfectly.
+
+*Refinement (mek, 2026-09-02).*
+#+begin_quote
+The Protector is becoming a servant to the stone in the way it needs, that he has
+conceded, and he increasingly becomes "unstable" *only* as circumstances allow
+him.
+#+end_quote
+
+Two things here, both precise:
+
+1. *He has conceded servitude.* He serves what the stone needs. This does not
+   contradict his being the dominant force -- he is not overpowered, he agreed. He
+   gave up being the point of the arrangement and kept the leash.
+2. *The instability is rationed, not creeping.* It is real and it is growing, but
+   it surfaces **only where circumstances allow it.** He never loses control; he
+   *permits* himself. In any room where composure matters, he is immaculate.
+
+*Consequence:* if you are watching him come apart, you are already dead. The
+instability is a status signal -- being permitted to witness it is a verdict on
+whether you will survive the hour. This inverts the usual villain-loses-grip arc:
+his slippage is not a weakness the heroes can exploit, it is a thing he spends,
+and it is only ever spent on people who no longer count.
+
+*Consequences for the story:*
+- No bargaining chip exists, because nothing on the human side of the ledger
+  registers. He cannot be appealed to, tempted, threatened, or shamed.
+- He outperforms everyone because he has no competing considerations. Never
+  tired, never hesitant, never distracted by a person.
+- And Leina's single great instrument -- reading people, pricing intent -- returns
+  *nothing* when pointed at him. That is the terror of the Book III confrontation.
+  Not that he is stronger. That her method reads a blank.
+
+*The proportion (mek, 2026-09-02).* "The Protector is flesh and vitriol holding
+oracle stone together."
+
+This inverts the description. Not a man carrying implants -- a mass of Oracle
+Stone, held in one piece by just enough flesh and just enough bitterness to
+cohere. The ratio flipped at some point and it is not clear anyone noticed,
+possibly including the Protector.
+
+Which reconciles with being the dominant force: dominance is not proportion, it
+is *direction.* The stone has no will, only need. The Protector supplies the will.
+The smallest part of the whole, and the only part that decides.
+
+And note what the binder is. Not conviction, not love, not ambition. *Vitriol* --
+and vitriol aimed at nothing in particular, which is exactly consistent with
+having no reasons.
+
+*Craft rule (recurring failure mode):* the writing keeps smuggling in
+reason-shaped behaviour -- courtesy, grudges, wounds, origins, pleasantness.
+Any behaviour that implies modelling another person as worth managing is wrong.
+Check every Protector line against this.
+
+*Craft rule:* never describe the Protector as a man with stone in him. Lead with
+the stone. It should read as geology wearing a person. And you cannot wound mass,
+which is one more reason nothing can be taken away.
+
+** The claim (mek, 2026-09-02) -- the deepest rule
+
+Test posed: the Protector sees a baby about to fall from a mountain; the parents
+beg and offer anything. What does the Protector do?
+
+#+begin_quote
+The protector would claim the baby's soul. It already has before the baby ever
+fell.
+#+end_quote
+
+This is the load-bearing rule and it supersedes softer readings (indifference,
+scale, "beneath its resolution"). The Protector does not need to act because *the
+claim is already made.* Every soul on Orbis goes to the Oracle; the Protector
+holds the Oracle; therefore every living thing is already claimed, before birth,
+before the fall.
+
+*Consequences:*
+
+- *The reasonlessness is structural, not psychological.* It is not that the
+  Protector does not care. Caring would be redundant. It already owns the outcome
+  either way, so there is no decision in the frame at all.
+- *The Protector never acquires.* It collects on what it is already owed. The
+  wars, the taken towns, the thousands dead -- not harvest. *Early settlement.*
+- *The parents' offer is not refused, it is a category error.* They are offering
+  to trade a thing that has already been sold. Nothing they own is theirs.
+- *Its patience is total.* It never has to hurry, because the only variable left
+  anywhere is *when*.
+- *And Leina is already claimed.* So is Melinda. So is every person she ever
+  saves, heals, hides or teaches. Her entire life's work is a **delay**.
+  She cannot win anyone back; she can only postpone delivery.
+- Which makes the ending the only victory actually available in this world: not
+  saving anybody, but breaking the claim itself.
+
+*** The one thing that reaches it (mek, 2026-09-02)
+
+#+begin_quote
+The idea of anyone working against what the Protector has claimed invokes rage.
+#+end_quote
+
+This is the single exception to the flat affect, and it is not a contradiction of
+"no reasons." It is not offended pride, not fear of loss, not a grudge. If
+everything is already claimed, then someone working against the claim is not a
+threat -- it is a *category violation.* Closer to what you would feel if gravity
+refused. Intolerance of incoherence, not of people.
+
+*It does not hate Leina.* It has no relationship with her. It reacts to what she
+represents.
+
+*Reconciles with the rationed instability:* rage is the thing the Protector
+spends. Which means, per the existing rule, that provoking it is not an opening --
+it is a verdict. The instant Leina makes the Protector unstable she has been
+moved into the category of people who no longer count.
+
+*And it is the Book III mechanism.* She reads it and gets a blank -- her one
+instrument returns nothing. The only thing she can do to it is make it *angry*.
+And making it angry means she is already dead.
+
+She does it anyway.
+
+*It also explains the escalation across Books II-III.* The Academy is not
+militarily threatening. It is a group of people successfully delaying delivery,
+which is intolerable in a way that armies are not.
+
+*Note:* the prologue line "is not mad, and does not rage" still holds in that
+scene -- begging parents are conceding the claim, not contradicting it. The rage
+has exactly one trigger.
+
+*** Against hope, and it is stated openly (mek, 2026-09-05)
+
+#+begin_quote
+The protector is against hope, that should be known.
+#+end_quote
+
+Not a secret and not an inference. Doctrine. Published. Everyone knows it.
+
+*Why it follows.* If every soul is already claimed, hope is the category
+violation in its purest and smallest form -- the belief that the outcome is not
+settled. So the rage trigger is not only organised resistance. It is a woman
+keeping a candle lit for a son who is not coming back. It is a man who will not
+sell the boat. Hope is the seed, and the Protector is against it at the root.
+
+*How the Reds frame it.* As *waste* -- which is continuous with their existing
+contempt for the Freefolk "squandering potential." Hope makes people delay,
+hoard, refuse to settle, hold things back from the world. Hope is inefficiency
+with a nice name. (Candidate formulation: /nothing is owed to the future./)
+
+*And it explains the popularity, which is the important part.* The Protector is
+not popular through fear. It is popular through **relief.** The public promise --
+there will never be another age of Oracles -- is not a threat, it is a
+reassurance, and what it reassures people is that *nothing will change.* An
+entire world of people who settled for being nobody, being told by the highest
+authority alive that settling was correct.
+
+*Consequences:*
+- The Freefolk "content to stay that way" is not mere passivity. It is doctrinally
+  endorsed, and it is the Protector's world working exactly as designed.
+- Which makes Nume -- who hopes, secretly and murderously -- the real heretic,
+  long before she is a book-keeper.
+- And Leina is the irony at the centre: the least hopeful person alive, who never
+  feels a drop of it, running a machine that manufactures it in everyone around
+  her.
+
+** The Protector has no gender
+
+*Brief (mek, 2026-09-02):* "I wish we had a good mechanism to scrap the
+Protector's gender."
+
+*Proposed mechanism -- it is already in the canon.* Self is what the Protector
+has been giving up: "divorcing himself from what 'life' means and the qualities
+and attributes that guide it." Sex and gender are exactly that -- attributes of a
+living thing that guide it. So they go the way everything else has gone.
+
+Not magical androgyny. *Attrition.* Decades of implants and taken lives have worn
+the markers off -- voice, frame, gait, face -- not into a woman and not into a
+man, but into something that no longer reads as either, because it is
+progressively less of a living thing. And per canon, this was *conceded, not
+lost.* The Protector gave it up like everything else and considered it a trivial
+price.
+
+*How it plays on the page:*
+
+- The narration never assigns a pronoun. It is always "the Protector." Reads as
+  formality at first; becomes horror once the reader notices it has never
+  slipped.
+- Inside the Reds, the avoidance is doctrine and functions as a shibboleth.
+  Everyone says "the Protector requires," never "he" or "she." Using a pronoun
+  for the Protector marks you instantly as an outsider -- or a heretic.
+- Out in the world, accounts simply contradict each other. Old records say one
+  thing, newer ones another, and nobody can settle it. This is *not* a mystery to
+  be solved and must never be resolved. It is one more place where there is
+  nothing to find.
+- And it does real work on the reader: Sauron is an eye, Voldemort has a face.
+  The Protector is a title with clothes on.
+
+*TODO:* earlier passages in this file and in pitch/prologue use "he" for the
+Protector. Needs a pass.
+
+** And it is why the ending works
+
+He made himself the loudest, most connected thing on Orbis -- forty years of
+accumulation. Connection is power and it is an open channel. He is not
+out-thought and nothing is taken from him. He is destroyed by the size of his own
+appetite. Which is the only way an appetite ever ends.
+
+---
+
+* Devices established in scenes
+
+** The four-second touch
+Nume's binding is visible every day and Leina misreads it for twelve years. Under
+stress Nume crosses to the shelf, puts two fingers on the spine of the Manual, and
+leaves them there. Not taking it down, not opening it — confirming it. Always four
+seconds; Leina has timed it. She files it as a tic. It is the chain.
+
+This closes the open question of what the binding cost Nume, visibly. It also
+rhymes forward: what Leina later improvises on Ardovus is the same shape.
+
+** Leina's notebook
+Not a diary — a *study.* Started at eight, running two years by scene 002. Columns:
+weather, slept, ate, forge or no forge, wine. She is trying to isolate the variable
+that triggers her mother's episodes, because if you can find the thing you can
+avoid the thing, and if you can avoid the thing you can have a mother.
+
+Most weeks she writes /no cause found./
+
+She never records what day the Weekly arrives.
+
+*This one object carries the whole trilogy.* It is her method and her flaw in the
+same notebook: the right technique, rigorously applied, pointed at nothing —
+because at five she was taught to always form a hypothesis and never taught that
+you can hold the correct method and still be aimed wrong.
+
+*Payoff — REVISED 2026-09-05 per mek.* The earlier version had Leina recovering
+Nume's ledgers from the chest years later. mek's reservation: the time lag does
+not work. She flees the house that night with an assassin in it; the ledgers are
+not portable; and it strands the payoff books away from the scene that sets it up.
+(Also noted: it is more reasonable that *Haesius* would have collected Nume's
+things.)
+
+*The fix (mek): the ledger is in the book she already has with her.*
+
+It is another layer in the tome. Which is exactly right -- the tome is already
+centuries of hands, sewn-in pages, cryptic passages. Nume's record is one more
+stratum, and Leina has been reading it her whole life without knowing what she was
+looking at. It is also continuous with the established note that Leina always
+found parts of the book "a bit off in ways she couldn't describe."
+
+*Proposed disguise: a healer's casebook.* Nume is a traditional healer by trade,
+so the single most unremarkable thing she could keep is a book of cases -- name,
+town, age, complaint, outcome. Leina read it a thousand times as medicine.
+
+*And the tell, when she finally sees it:* every case is an adult in their prime.
+Forty-one. Thirty-eight. Fifty-two. No infants, no old women, no difficult births.
+A village healer's casebook with no children in it is not a casebook.
+
+Every one of them died of fever, in a town Nume never went to, and Leina can
+recite the whole list from memory because she was made to.
+
+*This removes the time lag entirely.* The discovery can now land wherever the
+story wants it -- including Book I, on the road, by candlelight.
+
+** The notices
+Disappeared Oracles surface in the back pages of ordinary papers as ordinary
+deaths — fever, aged forty-one, a town eleven days away. This is how Nume watches
+the network die: on page four, between a marriage and a mare for sale, on a
+Thursday.
+
+First named: *VELL, Idony. Of Coldhurst.*
+
+---
+
+* The Oracle as afterlife, and the Order's price
+
+** Why anyone wants the stone
+
+First, correct the frame: *nobody chooses it.* Everyone goes. It is the water, not
+a doctrine, and the question only becomes live once the Order offers an
+alternative.
+
+But asked directly -- why would a person want it?
+
+- *It is not faith. It is observation.* Souls persist in the stone. Anyone with a
+  little affinity, and a surprising number of ordinary people have a little, can
+  stand near the black rock and *feel* their dead. Not speak to. Not see. Feel,
+  the way you know someone is in a dark room with you. Every grief in Orbis has a
+  floor under it that ours does not.
+- *Because your people are there.* Not abstractly -- specifically. A fisherman's
+  whole line is in that rock: his father, his grandfather, all of them. Whatever
+  it is down there, they are in it, and he will not be the first of his family to
+  be somewhere alone. For the Freefolk, whose entire culture is continuity rather
+  than ambition, this is the whole of it.
+- *And the scripture is bleaker than the comfort.* "The Oracle is Death, where
+  souls speak no more." Sealed and mute. People believe it and take comfort
+  anyway, because being kept beats being nothing.
+
+*The consequence that matters:* the claim does not feel like theft to anybody.
+Being claimed is being *included.* The Protector holding the Oracle is, to a
+fisherman in Westhaven, roughly like the crown owning the roads -- true, remote,
+and no reason not to walk on them.
+
+Which is the real reason the Protector is popular, and the tragedy Leina is up
+against: **she is fighting on behalf of people who do not want to be rescued.**
+
+And note the rhyme, which should land badly and be true: /nothing wasted, nothing
+lost, everything kept/ is the folk comfort said at gravesides for four hundred
+years, and it is also the Protector's ideology, word for word. Orbis has been
+reciting the harvest at its own funerals without noticing.
+
+** What the Order gives up (proposed 2026-09-06)
+
+Brief from mek: Odile must be genuinely beyond the Protector's reach -- an Elrond,
+of a hidden order -- and the price of that must be profound. ("Fading from
+memory?")
+
+*Proposal: you give up the dead. Both directions.*
+
+- To join is to be *severed* from the stone -- not hidden from it. Every person you
+  have ever lost is beyond your reach from that day forward, permanently, and you
+  did it to yourself deliberately.
+- And it runs the other way: when you die you do not go in. You end. Nobody who
+  loved you can ever reach you again.
+- Therefore *the Order's dead are the only people in Orbis who are actually gone.*
+  This is where mek's "fading from memory" instinct earns its place -- in this
+  world, remembrance is contact, so to be beyond contact is the only real
+  forgetting there is.
+
+*Why this makes them untouchable:* the Protector's every instrument runs through
+the stone. There is nothing of an Order member in it to claim, to sense, or to
+collect. They are not hidden geographically. They are invisible ontologically.
+
+*Why it cannot simply be given to the world:* almost nobody would take it. Against
+oblivion, being owned looks like a bargain -- and for most people it is one.
+
+*What it costs Odile specifically:* forty years of students, going into the stone
+one at a time on page four, and Odile cannot feel a single one of them. Every
+other teacher in the world gets to keep their dead. Odile gets a name in a notice
+and nothing behind it. Not safe -- alone in a way nobody else on Orbis is capable
+of being.
+
+*What it will cost Leina, when the offer comes:* Nume is down there. And Leina has
+never once said a true thing to that woman, and in this world that door is not
+necessarily shut. It is the only door she has left. Joining closes it forever.
+
+She would be free, and she would never get to argue back.
+
+---
+
+* The Order and the Sanctuary
+
+*Canon (mek, 2026-09-07).* No metaphysical mechanic. Four earlier proposals --
+severance from the stone, paying the claim in advance, burning a name, unnamed
+practitioners -- are all *rejected.* They were loopholes dressed as myth, and they
+handed the Order the Protector's own accounting grammar.
+
+#+begin_quote
+The secret society / the oracle people / the "order" simply are bound under strict
+pact and they all share a similar fate/risk. Yes, there could be [and probably
+will be in the story] cracks or "plants" or attempts to undermine the order (the
+Protector has heard of this "order" and wants to stamp out this resistance) but a
+key is that the order *expects* this. i.e. They proceed with Nume levels of
+anxiety and paranoia and caution and even if they were discovered, layers of
+complex bonds, agreements, and strategies (and an overall conservative approach),
+prevent them from being dismantled.
+#+end_quote
+
+** Why this works
+
+They are not safe because the universe made an exception. They are safe because
+they are professionally paranoid and have been for generations. This also
+retroactively explains Nume: she is not a woman with an anxiety disorder, she is a
+woman running the Order's discipline alone, in a kitchen, with nobody to check her
+work.
+
+Betrayal is *priced in.* Plants and cracks are expected, so discovery is survivable
+by design.
+
+** The Sanctuary
+
+#+begin_quote
+Their "base" (the sanctuary) is ironically in a place that was constructed as a
+jail for Oracles. It has been buried and forgotten by years of war and almost for
+optical reasons, removed from maps. Importantly, the rooms (in order to isolate
+the Oracles in jail) had been coated / plated / built with a specific type of
+stone that blocks out oracle stone; a perfect place to practice and scheme.
+#+end_quote
+
+- Built to cage Oracles; now shelters them. The irony is structural, not cute.
+- *Erased from the maps out of embarrassment, not secrecy.* A jail for Oracles is
+  a thing a state stops wanting on its records. Keep this reason -- it is better
+  than "it was hidden."
+- A jail keeps a *registry.* There is a document in that sanctuary naming everyone
+  ever held there. Connects to the notices, and possibly to Nume.
+
+** The blocking stone
+
+#+begin_quote
+This stone maybe is like concrete, where it can't just be mined, it has to be
+worked... And possibly, ironically, few can shape it outside of oracles.
+#+end_quote
+
+- *Manufactured, not mined.* Supply is bounded by skill, not geology, so it can
+  never flood the world. Someone invented it; the method can be lost or stolen.
+- *Made by Oracles.* The cages were built by the caged. Persecution therefore
+  starves the very thing that defends against Oracles.
+- Orbis now has two materials, which is the Rings-level clarity that was missing:
+  **black stone connects. This stone blocks.** Needs a name.
+
+*** Faraday cage, and high altitude
+
+#+begin_quote
+I *was* thinking that the order's sanctuary is more like a Faraday cage (though
+perhaps practice within it is even more challenging, which perhaps slows them down
+but also is like training at high altitude).
+#+end_quote
+
+Practice works inside but against resistance. Slows the Order down; also makes
+them strong. This solves the problem of how a tiny, cautious order produces
+formidable practitioners.
+
+*Reverse danger:* someone who has only ever trained inside steps into open air for
+the first time and everything is suddenly effortless and loud. They overshoot.
+Something goes badly wrong. That is a scene.
+
+*Note on Leina:* trained by Nume in the open, in a kitchen, with no altitude
+advantage. By Order standards she is untrained. But she *derives* and none of them
+do. Contrast preserved.
+
+** Rejected: private abduction of Oracles
+
+*(mek, 2026-09-07)* Claude proposed that rising demand for shielding would lead
+ordinary frightened people to capture Oracles privately. Rejected:
+
+#+begin_quote
+No, I think that's not right. I think the oracles would outclass most individuals
+1:1, especially given how educated they've had to become, how paranoid. Sure maybe
+there's a case where this has happened, but now either the oracle dies in
+captivity (which is a bad investment) or a common person has another mouth to
+feed. Just scrap that train.
+#+end_quote
+
+** Open: how does shielding get made now?
+
+*Proposal (2026-09-07), pending mek.* It largely does not. Shielding is a **legacy
+material** -- made in an era when a state could compel Oracles at scale. That era
+is over. What exists, exists.
+
+So it is *salvaged*, not produced: stripped out of ruins and old works, traded,
+counterfeited, fought over. Like scavenging Roman concrete.
+
+Two consequences:
+
+1. *The sanctuary is the single richest deposit on Orbis*, and it is the Order's
+   own floor and walls. If that location ever surfaces, the threat is not the
+   Protector -- it is a gold rush. Scavengers will strip the building without
+   caring who is inside. This makes "removed from the maps" load-bearing.
+2. *Only the Reds can make it new*, because only an institution can hold and
+   compel Oracles where a family cannot. Another reason they are winning, and
+   another reason people accommodate them.
+
+---
+
+* How Leina actually wins people (mek, 2026-09-13)
+
+#+begin_quote
+She wins Smithens and everyone else by creating value and protecting them.
+Leina's way is to win minds silently and putting possible objectors in a place
+where doing so would come at too great a risk to make sense.
+#+end_quote
+
+Three mechanisms, none of them manipulation in the villainous sense:
+
+1. *Real value.* Smithens got eleven years of his life's work back. Yitna gets
+   diagnoses and herbs. Cudner gets capital. Gibbon James gets grain. These are
+   not pretexts -- they are the actual goods.
+2. *Protection.* She keeps her people safe, and they know it.
+3. *Objection made irrational.* Anyone who might inform on her is left in a
+   position where informing costs more than silence. Johan Lemeus and the affair
+   is the crude version; the elegant version is that Smithens, Yitna and Cudner
+   all signed her folio /adequate/ knowing better, and are therefore implicated.
+   Nobody had to be threatened. The structure does it.
+
+*So Book II is not a contest.* The tension is that **the method works too well**:
+every person she makes safe enlarges the target. A compounding liability, not a
+power struggle.
+
+** The real Book II pressure (mek, 2026-09-13)
+
+#+begin_quote
+The problem over time is that not everyone can keep a secret... or is even being
+their honest selves... and Leina is not always in a position to choose who to deal
+with.
+#+end_quote
+
+Her whole architecture depends on vetting, and growth costs her the luxury of
+vetting. She starts having to deal with people she would never have chosen.
+
+** Ardovus: save vs. protect (mek, 2026-09-13)
+
+#+begin_quote
+She navigates a complicated relationship with Ardovus (making him realize she may
+be better situated to save him than the Reds... but not to protect him *from* the
+Reds).
+#+end_quote
+
+This is the engine of the partnership. She can offer him *life*; she cannot offer
+him *safety.* So he can never fully defect, and she can never fully hold him. Both
+of them know the exact shape of it and neither can change it.
+
+* Alistair and Odile colluded (mek, 2026-09-13)
+
+#+begin_quote
+I think Alistair and Odile likely colluded. It's not just to save Nume and Leina.
+But none of this is discussed or revealed until the reader grapples with many
+doubts and evidence to the contrary.
+#+end_quote
+
+- Feeding the Reds other keepers was therefore *joint policy* -- Odile choosing,
+  with him, which of her own people to spend.
+- Odile's public certainty that Alistair betrayed the Order is a performance she
+  has maintained for twenty years, *including to Leina's face.*
+- And if it was bigger than saving Nume and Leina, then Nume's keepership was
+  never the point. **Leina was.** Not saving her -- *finishing* her. A writer, the
+  first in generations. They bought her a childhood and paid for it in lives.
+- So the upbringing was not one woman's damage. It was three adults' policy. She
+  was a project, and everyone who loved her was also running her.
+- *Nothing of this is revealed until the reader has been given every reason to
+  believe the opposite.* No confession, no letter, no memories in a bottle. Leina
+  assembles a case that reaches about eighty percent and the last twenty never
+  arrives -- which is itself the proof of how good Alistair was.
+
+*Correction (mek, 2026-09-14): Alistair did not "give them up."*
+#+begin_quote
+I wouldn't say Alistair gave them up, I'd say it's complicated. It was the
+required cost of doing business and what was required of Alistair.
+#+end_quote
+
+Structural, not volitional. He held a position; holding it required producing
+results; the results were sometimes people. How much say he had in which ones is
+unclear, possibly including to him.
+
+*And note the rhyme:* this is exactly Ardovus's arrangement. Both men are on a
+performance contract where the currency is other people, and neither is permitted
+to stop producing. Alistair and Ardovus are the same machine at two different
+scales — which is worth the reader noticing before anyone says it.
+
+*Terminology (mek, 2026-09-14):* avoid "soul" when describing the Oracle in
+overview. It is *living force*, drawn into the stone at death and held there —
+closer to a tree sequestering carbon than to an afterlife. Whether anything of the
+individual persists is belief, not established fact, and people believe it. The
+couplet ("where souls speak no more") is the folk gloss on a physical process.
+"Soul speaking" as the name of the practice stands.
+
+* Why Leina goes to the Protector (mek, 2026-09-14)
+
+*Not surrender.* Correcting "she goes under pretence of surrender."
+
+#+begin_quote
+I don't think that Leina gives herself up. I think she realizes that her Academy
+has come to a place where staying still guarantees discovery. And the strategy of
+hiding and being on the move has grim long-term prospects. And so she finds a way
+to move both defensively and offensively towards the Protector, as best on her
+terms as she can, knowing that being discovered will be on the Protector's terms.
+#+end_quote
+
+- The choice is not between safety and risk. Every remaining path ends in contact.
+  The only variable left is *whose terms*.
+- She does not get good terms. She gets marginally better ones than being found.
+  Keep that honest.
+- *This is the culmination of the established irony* -- every step toward security
+  enlarged the target, until the target was large enough that the only move left
+  was choosing the ground.
+- *Defensive and offensive at once* suggests she is both the attack and the
+  diversion: her moving toward the Protector is what buys the Academy the room to
+  disperse or relocate. Her body is the feint.
+
+* Why Ardovus succeeded where Alistair's misdirection held twenty years
+
+He is dying. He cannot run a twenty-year search; he has thirty days. So he does
+what nobody with a career does and takes the shortest path -- and he is not
+looking for a book, he is looking for a *person who behaves like a keeper.*
+
+Desperation as method. It beat tradecraft.
+
+---
+
+* Flint
+
+*Canon (mek, 2026-09-13).* Leina's name in the world. Not chosen, not announced --
+it spreads.
+
+- *Why flint.* It is sharp, it is common, it is a rock nobody looks at twice. And
+  mek: "it's a name that spreads like fire and not by itself." **Flint does not
+  spark alone.** It needs steel struck against it. The argument of the whole series
+  sits inside her name, and it means somebody in the story is the steel.
+  *Open: who is the steel?*
+- *Two names, two phases.* /The margin/ comes first -- a deflection of Dr. Yitna's
+  that hardened into a person (see ~maybe/scenes-batch-2.org~, "The Margin").
+  /Flint/ is what followers carry later.
+- *And the margin is a fabrication.* Yitna invented it to end a conversation. It
+  grew on its own. Leina heard a stranger in a river town describe an old man in
+  the north who asks for nothing -- and did not correct it. She knows exactly how
+  well a made-up person works, from the inside, before she ever chooses to use one.
+
+* False words
+
+*Canon (mek, 2026-09-13).* "It's easy to put false words in the mouth of someone
+who speaks without speaking."
+
+- *This is how four hundred years of persecution actually worked.* Soul speaking
+  leaves no record -- no transcript, no witness who can testify to what was or was
+  not done, nothing to examine after. So an Orackai is the one kind of person you
+  can accuse of anything, and they cannot refute it, and neither can anyone else.
+  The plague came, someone said who brought it, and it was true because nobody
+  could check.
+- *The Reds inherit that intact.* Every confession they produce is unfalsifiable.
+  Every Orackai who dies in their hands can be said to have said whatever is
+  useful.
+- *And Leina is the one person alive who could do it deliberately.* She writes what
+  the speakless speak. That is a gift for putting words in mouths, and the day she
+  notices what it is actually good for is the most dangerous day in the story.
+
+* The two offers
+
+*Canon (mek, 2026-09-13).* "The Reds offer the soul speakers life and slavery.
+Leina offers them salvation, freedom, a home."
+
+Keep the Reds' offer *genuinely better on every measurable axis:*
+
+- The Reds' offer is real. They keep you alive -- food, a room, a purpose, an end
+  to running. Everything except yourself. And they do not have to persuade anyone;
+  they *find* you. The offer arrives with a hand already on your shoulder.
+- Leina cannot offer safety. She is established as unable to protect even Ardovus
+  from the Reds. What she offers is: you are not property, the work is yours, you
+  will not be alone. That is the whole of it.
+- Therefore *every person she recruits, she is trading their survival for their
+  freedom* -- and some will not think that was a good trade when the bill comes.
+  This is where Melinda lives, and why the betrayal is not a villain turn.
+- *Scale.* Not armies. A recruitment war over perhaps two hundred people. The fate
+  of Orbis turns on which offer a few dozen frightened practitioners accept.
+- And the girl who spent her childhood pricing other people's offers is now the one
+  making them, to people who will price her exactly as she was taught to.
+
+---
+
+* Melinda does not come (mek, 2026-09-14)
+
+#+begin_quote
+It's not clear to me how or if Melinda even connects to Leina traveling away from
+her home with Ardovus. I'm pretty sure in this context Leina would have seen her
+as a liability, an extra mouth to feed, someone who Ardovus likely would kill,
+dead weight to him.
+#+end_quote
+
+*Settled.* Melinda stays in Blackmoor. Her arc completes in Book I. The last thing
+Leina does before the road is the coldest thing in the book: she does the sum, and
+the sum says leave her, and she leaves her.
+
+Same arithmetic as the garden scene. She is better at it now.
+
+All Academy-era Melinda material (the betrayal, the demotion, Tier 0 exclusion) is
+therefore dead.
+
+* How the Academy is discovered (mek, 2026-09-14)
+
+*Rejected:* Claude's "structural" version -- that training makes students ring and
+a cluster is inherently a signal. mek: "I think your structural suggestion is
+actually quite boring. If the protectors are having such a hard time identifying
+such people in the wild then even having a group of them together like the Order I
+don't think would inherently create an exposure."
+
+Correct: it makes the world's central difficulty stop being difficult for plot
+convenience.
+
+*Canon:*
+#+begin_quote
+I think probably what will happen is that someone with capability that intrigues
+or tempts Leina is sent to infiltrate. And this is where someone like Melinda, if
+they existed, could spill beans.
+#+end_quote
+
+- *Her recruitment method is the attack surface and she can never close it.*
+  Spotting the gifted and bringing them in *is* the Academy. The door is
+  permanently open by design and everyone including her knows it.
+- *The bait is temptation, not just capability.* Someone who might be another
+  writer. That is the one offer Leina cannot refuse -- she has been alone in
+  exactly that way since she was five, and what finally beats her is not greed or
+  carelessness but that somebody worked out she would take almost any risk for the
+  chance of one more of her.
+- *The Order warned her.* Expecting plants is their entire security posture. But
+  the Order's answer is /never grow/, and she cannot take that answer.
+- *The leak is somebody nobody thought to secure.* Not a traitor. The person in the
+  building everyone overlooks.
+
+* Protector + Oracle = the One Ring (mek, 2026-09-14)
+
+Will and capacity fused into a single instrument. Consequences:
+
+- The obvious move -- take it and use it against them -- is the move that makes you
+  it.
+- Which is exactly why Leina's Book III plan is not seizure. She goes to *bind* it
+  and die, because the only way to wield the thing safely is not to survive
+  wielding it.
+- The Protector classifies as Orackai by *fusion* rather than talent. So there are
+  two writers alive and they arrived by opposite roads: one by method, one by
+  consumption.
+- The Reds have no one else like Leina. A few less sophisticated people may
+  classify. Not enough to matter.
+
+---
+
+* The ending, settled (mek, 2026-09-14)
+
+** It is not a suicide. It is an attack.
+
+Ardovus attacks the Protector knowing he will and must die in the exchange. He is
+a professional and this is the only unpaid job he ever takes.
+
+Through the bond he feels Leina going — thin, fleeting, the way he has felt her
+for two years the way you feel your own pulse — and he knows what that means for
+him.
+
+** He is not already dead, and there is no clock
+
+Do not give him an out. He could plausibly survive.
+
+He is the most qualified person alive at surviving a failing heart: eleven years
+inside the Reds' maintenance system, he knows where the captive practitioners are
+kept, how the treatment works, what it takes to make someone do it. If the
+Protector falls the Reds destabilise, but the soul speakers do not evaporate, and a
+resourceful man with a specific need and no employer suddenly has options he never
+had on the lease.
+
+And *no urgency clock.* He is not deciding in panic. He has time to look at both
+and can see the version of himself that walks out and finds someone to hold the
+roof up.
+
+So the choice is a hard, uncertain, genuinely achievable survival versus not — the
+first real choice of his life, and only a choice because the other side of it is
+real.
+
+** The Protector offers him the thing
+
+The Protector, out of hubris, tells Ardovus he is welcome back, can be saved, and
+may be rewarded for delivering Leina.
+
+- *It is not a lie and not manipulation.* The Protector does not lie. This is a
+  plain, accurate, generous statement of terms — and it is technically true that he
+  delivered her. He is the reason she is in the room.
+- *The hubris is the right species:* not arrogance, a blind spot in the machine.
+  Something that has excised the part of itself that values cannot model a
+  valuation in anyone else. It assumes Ardovus is a line item that responds to
+  maintenance, because that is all he has ever been, to them and mostly to himself.
+- *It is the only miscalculation the Protector makes in three books, and it is the
+  one that ends it.* Correct for a thing that cannot be outfought or
+  outmanoeuvred: the single opening is a category it has no instrument for.
+- *Staging:* he is offered his life out loud by the only authority that can
+  actually deliver it, and then he moves. The refusal and the attack are one
+  gesture.
+
+** The Protector kills him, and that is what ends it
+
+It destroys what comes at it — the rage at anyone working against the claim is the
+one reaction it has. But Ardovus is bound into the thing that was bound to the
+Protector, so the act of destroying him *is* the act that ends it.
+
+Nobody defeats it. It defends itself, correctly, and that is the end. Which honours
+the rule: you do not beat an appetite, you let it consume itself.
+
+---
+
+* Known weaknesses (Claude's read, 2026-09-02)
+
+Flagged in response to "what feels weak." These are critiques, not canon.
+
+1. *(ANSWERED 2026-09-02 -- see "What Leina wants".)* Leina does not want anything. The stated want -- solitude, peace, freedom
+   from politics -- is satisfied by inaction, which is dramatically inert. She
+   only ever responds. She needs one appetite that is hers, not Nume's and not
+   survival. The Scientist placement was the closest we came and we made it
+   something she loses passively.
+2. *Soul speaking has no rules, so no scene can carry stakes.* We have not
+   defined what a success looks like, what it costs, or what is flatly
+   impossible. "Each advance must be earned by deriving an equation" is a promise
+   the world has not yet paid off -- we have never seen one derived.
+3. *What Nume knows may not be answerable.* The Reds brute-force with unlimited
+   corpses. What single piece of information beats that? If it is a weakness, it
+   is a plot coupon; if it is the true grammar, we are back to the
+   lost-perfect-knowledge framing already rejected. Risk that the load-bearing
+   wall does not exist.
+4. *Ardovus is a mechanism, not a person.* Only trait so far is patience. And the
+   bond removes the threat the premise sells -- he cannot hurt her.
+5. *The Freefolk being content to stay nobody makes the whole province passive.*
+   Nume is the only person within a hundred miles who wants anything.
+6. *The Reds' military reality in Westhaven is undefined.* Occupied? Annexed?
+   Any resistance? Are there Reds in Blackmoor on page one, or is it all coming?
+
+** Things Claude does not understand (2026-09-02)
+
+*Timeline / world gaps, in order of how much they block the writing.*
+
+1. *Where are the Reds, physically, right now?* The prologue plays "he is very
+   close now" over a five-year-old. But at twelve, Finn is beaten while making a
+   delivery *up north* to them -- so they are not local. Has the square-and-table
+   edition check happened in Westhaven yet? If yes, Nume is already a criminal in
+   hiding and Act I is hot. If no, the Reds are a rumour and the tension in
+   Blackmoor is theoretical. These are two different books.
+2. *Nume's professional history.* She was a Soul Speaker pushed into the
+   equivalent of disability retirement -- retired from *what institution*? Who
+   employs Soul Speakers? Is it the placement track? Was she pushed out before or
+   after Leina was born? Before or after Alistair went?
+3. *Alistair.* Total fog. Famous for what. When he left. Whether Leina remembers
+   him at all. Whether he is alive during the prologue's kitchen table.
+4. *Reygen.* Present in old drafts (age 3, "possibly with Alistair"), absent from
+   everything built this session. Is there a brother in the current version? If
+   so he is in the house and nothing we have written accounts for him.
+5. *Geography of the Oracle.* A formation extending into the mantle -- where? Do
+   the Reds physically hold that ground? If the Protector is centred there, how
+   far is it from Westhaven? And if stone is contraband, how does anyone in
+   Blackmoor have any?
+6. *Is Leina an Oracle by the world's definition?* If yes she is hanging-eligible
+   from age five and the danger is constant. If no, what is she?
+
+** What is not yet compelling (2026-09-02)
+
+- *The Academy.* Three books are named for it and there is no image of it. No
+  place, no day, no floor plan. It is currently a metaphor with no building.
+- *Ardovus.* The bond means he cannot kill her, which removes the engine from the
+  middle of Book I. He needs to want something from her he cannot simply take.
+- *The Protector.* The harvest is a thrilling policy, but there is no face, no
+  room, no voice. Sauron works because of an eye and a tower. We have a memo.
+- *Wick.* Never responded to. May be dead. Should be confirmed either way.
+- *The five students.* Still slots with function labels, not people.
+
+
+---
+
+* Open threads
+
+- Is the placement list public? Does the whole town read it?
+- Who got the Scientist placement Leina wanted?
+- What, precisely, does Nume know? (Still the biggest hole — everything hangs on it.)
+- Why/how did the Manual come to be annotated? Who held it before Nume?
+- What is Haesius's actual profession? (Scribe assumed — confirm.)
+- What is the "global cause" kids are nominally sacrificed toward? Society-wide,
+  pre-Reds. Does it predate the Red Shepherds or is it their doing?
+- How does teaming work mechanically, and how does Leina get her shared
+  demonstrations signed when nobody will pick her?
+
+---
+
+* Session log
+
+** 2026-09-12/13 — Session 3
+Established: Leina's method is value + protection + making objection irrational
+(three-puppets framing killed); the real Book II pressure is losing the luxury of
+vetting; Ardovus can be saved by her but not protected by her; Alistair and Odile
+colluded and it was bigger than saving Nume and Leina -- Leina herself was the
+project; why Ardovus beat twenty years of tradecraft (desperation as method);
+Blackvein/the Vein named; Orackai = the writers, soul speakers = the practitioners,
+Oracle reserved for the entity, oracle stone unchanged; /Orackai/ means "speakless
+speaker," i.e. literally *writer*; Flint as her name and flint's need for steel;
+false words in the mouth of one who speaks without speaking; the two offers and the
+recruitment-war scale; Melinda's motive revised down to jealousy.
+
+Scenes drafted: 001-004 in ~scenes/~, five more plus the Nume POV in ~maybe/~.
+~summary.org~ written (full-spoiler plot summary with a flag list).
+
+
+** 2026-09-01 — Session 2
+Established: soul speaking is not literal incantation; Oracles as a persecuted
+class rather than a lost art; the Protector's three layers and his popularity as
+an anti-Oracle guarantor; Leina as *writer* rather than speaker; the Manual as a
+Half-Blood-Prince artifact (mechanism still open); Nume's compartmentalization as
+operational security. Drafted the opening prologue (see ~prologue.org~).
+Proposed and pending: the name "the margin".
+
+
+** 2026-08-31 — Session 1
+Established: kids-as-investment economy; "most significant nobody"; Basics as a
+signed folio rather than a school; the five placement tracks; team basics and
+their four formats; Nume as terrified-and-correct ex-Soul Seeker; Leina as
+archive; metalusion; the written-off strategy; the invisible adult network; the
+placement critique.
+
+Corrected this session: the Academy is not seeded in childhood/basics — it is a
+post-murder, on-the-run development (see above). Basics is a humbling, not a
+secret proving ground.
+
+Discarded this session: Nume as ambitious rather than frightened. The "debt
+ledger / Oracle as economy" premise rebuild. Tally-on-the-dock as the civic
+fabric. Storyboard-as-beat-sheet format (see ~storyboard.org~, superseded).

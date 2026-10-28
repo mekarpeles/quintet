@@ -1,0 +1,102 @@
+#+TITLE: Quintet — Outline
+#+SUBTITLE: Plain plot outline, full spoilers. 2026-09-14.
+
+* What you need to know
+
+- The world is Orbis, pre-industrial.
+- "Soul speaking" is a real practice: influencing living things directly. Almost
+  nobody understands it. Every household owns a copy of the Soul Speaker's Manual
+  and follows its procedures without sensing anything, the way people follow folk
+  remedies.
+- A rare minority can actually sense feedback when they practice.
+- A much rarer few can invent new technique. They are called Orackai. There are
+  almost none left.
+- The Oracle is a huge formation of black stone. When a living thing dies its
+  living force is drawn into the stone and held there — closer to a tree
+  sequestering carbon than to an afterlife. Whether anything of the individual
+  persists is a matter of belief, and people do believe it.
+- The Red Shepherds, led by the Protector, control the Oracle and hunt Orackai.
+- A hidden Order protects one accurate copy of the Manual, compiled over four
+  centuries. Several members hold decoy copies. Almost nobody knows which is real.
+
+* Book I — The Academy
+
+1. Leina Grey, twelve, lives outside Westhaven with her uncle. Her mother Nume is
+   secretly the Order's keeper of the real Manual. Nume has spent twelve years
+   forcing Leina to memorise it, and has trained her to appear unremarkable so
+   that nobody looks at their family.
+2. Leina's father Alistair has spent twenty years working inside the Red
+   Shepherds, running their search for the Manual and deliberately steering it
+   away from his family. He is killed or removed.
+3. The Reds reassign the search to Ardovus Retik, an assassin with a fatal heart
+   condition. The Reds treat his heart once a month, and continue doing so only
+   while he produces results.
+4. Ardovus traces the Manual to Nume and kills her.
+5. Leina returns home and is caught by him. She senses his heart condition and,
+   improvising from the Manual, binds her life to his: if she dies, he dies.
+6. They travel together under a standoff. He still needs the Manual. She needs to
+   survive and cannot be killed by him.
+7. Reading the Manual properly for the first time, Leina finds a section she had
+   memorised as medical case notes. It is actually her mother's record of Order
+   members who have been taken or killed.
+8. One entry leads her to the town of Coldhurst, where she meets Odile — her
+   mother's former teacher and a senior figure in the Order.
+9. Odile sends one member of the Order to travel with Leina. This is her first
+   student.
+
+* Book II
+
+1. Leina begins a school, recruiting people who can sense feedback but have never
+   been trained. These people are invisible to the Reds, who only hunt known
+   practitioners.
+2. She teaches them her mother's method: form a hypothesis, test it, record the
+   result. Nobody has applied this to soul speaking before.
+3. It works. She demonstrates that Orackai can be trained rather than born.
+4. This puts her in conflict with the Order, whose policy for four hundred years
+   has been secrecy and no expansion.
+5. The Reds send an infiltrator, presented as an exceptionally gifted recruit —
+   possibly another Orackai. This is the one kind of person Leina will not turn
+   away.
+6. She admits the recruit over the Order's objection.
+7. The school is exposed.
+
+* Book III
+
+1. The Protector has spent decades implanting oracle stone and taking lives, and
+   is now effectively fused with the Oracle. The two together function as a single
+   weapon.
+2. The Academy has reached a size where staying still guarantees discovery, and
+   the alternative — permanent hiding and movement — has no long-term future
+   either. Every remaining path ends in contact with the Reds.
+3. Leina does not surrender. She concludes that if contact is certain, the only
+   variable left is whose terms it happens on, and moves toward the Protector
+   deliberately — defensively, to break the Academy out of a fatal standstill, and
+   offensively, to get within reach. The terms she gets are not good. They are
+   marginally better than being found.
+4. She also concludes the weapon cannot be captured or used, only destroyed. Her
+   intent is to bind the Protector to herself as she bound Ardovus, then take her
+   own life and remove them both.
+4. She fails. The Protector overwhelms her and commits her name to the Oracle.
+5. The binding did partly succeed — and it also caught Ardovus, who is still bound
+   to her.
+7. The Protector, misreading Ardovus as it misreads everyone, offers him
+   restoration and a reward for having delivered Leina. The offer is sincere and
+   deliverable. Ardovus could take it, and could plausibly survive on his own
+   terms even without it.
+8. He refuses and attacks, knowing he must die in the exchange. The Protector
+   destroys him — and because Ardovus is bound into the thing now bound to the
+   Protector, destroying him is the act that ends it.
+9. The Oracle becomes unstable. The Protector's city collapses. Leina survives.
+
+* Threads resolved across the three books
+
+- Alistair held his position inside the Reds for twenty years, in collusion with
+  Odile, and holding it required producing results. The results were sometimes
+  members of the Order. This was the cost of the job rather than a choice he made
+  about particular people, and it is not clear how much say he had in any of it —
+  including to him. Their purpose was not only to protect Nume and Leina but to buy
+  Leina time to develop. He never explains himself and dies without doing so.
+  Leina assembles a partial case and is never certain of it.
+- Odile has publicly maintained for twenty years that Alistair betrayed the Order,
+  including to Leina.
+- Some of the names in Nume's record are people Alistair's position cost.

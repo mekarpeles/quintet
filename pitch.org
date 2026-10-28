@@ -1,0 +1,64 @@
+#+TITLE: Quintet — The Pitch
+#+SUBTITLE: 2026-09-02
+
+* Note
+
+Written as a spoken pitch. It takes decisions on several open gaps in order to
+be sayable -- flagged below the pitch. Revisit if any decision is wrong.
+
+* The pitch
+
+Every house in Orbis has the same book on the shelf. A home remedy manual, four
+hundred years old, hand-copied so many times that no two are alike.
+
+The Red Shepherds have just published the authorized edition. Bring your copy to
+the square. If it matches, take it home.
+
+Leina Grey is twelve. Her mother's copy does not match.
+
+Nume Grey was a healer once, pushed out of the profession for being impossible to
+work with. Everyone in Blackmoor thinks she is a lazy madwoman who reads too much
+and gave up on her daughter. What she actually is, is the only person in the
+province who understands what the Reds are really doing -- and she cannot tell a
+soul, because it is not merely dangerous to say. It is insane to say.
+
+So she does the only thing left. She puts it in her daughter.
+
+Twelve years of drilling. Six languages. Recall tests before dawn. Not an
+education -- a backup. And the instruction that comes with it: /be nobody./
+Finish your schooling adequately. Take a dull placement. Be written off. A hidden
+thing is only safe while it is hidden.
+
+Leina executes it perfectly, hates every hour of it, and cannot dismiss it,
+because the logic keeps turning out to be right.
+
+Then a man with a failing heart is sent to collect the book, and kills her mother
+because she is standing between him and the paperwork.
+
+Now Leina is the only copy, with nobody left alive to read her, and being nobody
+has stopped being survivable.
+
+And every single thing she does to make herself safe makes her a larger target.
+That is the series.
+
+She survives the only way left: by making more copies of herself. That is the
+Academy. That is how she wins.
+
+And it is the one thing her mother -- who trusted no one -- could never have
+conceived.
+
+* Decisions this pitch takes
+
+- *The Reds arrive in Westhaven during Act I.* The square-and-table edition check
+  comes to town. Act I is hot, not theoretical. (Resolves gap 1.)
+- *What Nume knows is not a weapon, it is a deadline.* She has correctly worked
+  out the Protector's method and roughly how long is left. She is not holding a
+  key -- she is holding the problem, stated accurately, for the first time.
+  Nobody would believe her, which is precisely why she reads as mad. (Resolves
+  gap 3, and avoids the plot-coupon problem.)
+- *Nume's profession was healer / Soul Speaker*, and she was pushed out of it.
+  (Partially resolves gap 2 -- the institution still needs naming.)
+- *Leina is an Oracle by the world's definition.* She does not know the word
+  applies to her. (Resolves gap 6.)
+
+Still open: Alistair, Reygen, the geography of the Oracle, Wick's status.

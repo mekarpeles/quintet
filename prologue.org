@@ -1,0 +1,100 @@
+#+TITLE: Quintet — Prologue
+#+SUBTITLE: Opening voiceover
+
+* Note
+
+Fellowship-style cold open: a voice over images, the myth and the threat, then
+narrowing to the smallest possible thing.
+
+- Draft 1: loss-by-attrition. Superseded -- it was persecution, not decay.
+- Draft 2: fixed that, but all condition and no story. No objects, nothing to see.
+- Draft 3: tracked a single sacred book through four hundred years. Superseded --
+  too Ring-like. There is no one true text and no chain of martyrs holding one
+  artifact.
+- Draft 4 (rev. 2026-09-02): the Manual is a book in *every* house. Square-check
+  cut per mek -- the Reds do not sweep, they ask, and they take the wrong people
+  for years. Protector passage rewritten: no pronoun ever (the title is the
+  pronoun), no origin, no "stood at the same wall." Lead with the stone. Divergence is the crime. The
+  image is a town square, a table, and a queue of people holding their family's
+  copy.
+
+Voice: unattributed, reads as a woman's.
+
+* Draft 4
+
+Every house has one.
+
+It sits on the shelf between the almanac and the accounts, and it comes down when
+a child spikes a fever or a ewe won't drop her lamb. The Soul Speaker's Manual.
+Your mother had one. Hers did. You have never read it front to back and you don't
+need to -- you know the six pages that matter, the way you know a prayer you
+stopped believing.
+
+Every child in Orbis can recite the opening couplet. Most of them do it without
+hearing it.
+
+#+begin_quote
+The Oracle is Death, where souls speak no more.
+Your final breath she seals, beneath the Orbis core.
+#+end_quote
+
+Nobody knows who wrote the thing. That was never the interesting question.
+
+The interesting question is why yours is not the same as your neighbour's.
+
+Four hundred years of copying by hand. Four hundred years of tired men who
+couldn't quite read a word and chose one. And here and there, in the space at the
+edge of the page where nothing important is ever written -- somebody who tried it,
+and found it didn't work, and set down what did.
+
+Not truth. Nobody has the truth. There is no perfect book and there never was.
+There is only the black stone, and the few born able to feel the life in things,
+and four centuries of ordinary people making notes in the margins and being
+wrong.
+
+Mostly.
+
+The ones who were not wrong were called Orackai, and we hanged them. Not all at
+once -- there is never a single purge. A bad winter. A suspicious death. A lord
+who found one of them inconvenient. Some of them were burned in the square to
+make the point, and their books with them, and their students learned to keep
+very quiet.
+
+And now there are the Reds.
+
+They do not search. Searching is for people who do not know what they are looking
+for. They ask, and they are patient, and every few years somebody's book turns out
+to be the one -- and that somebody is taken north and is not seen again, and then
+the book turns out not to be the one after all.
+
+So they widen it.
+
+In the north there is a thing called the Protector.
+
+The Protector was a person once. Nobody agrees when, or which one, and it does
+not matter. What walks now is Oracle Stone, held in one piece by flesh and
+vitriol -- and the Protector is not mad, and does not rage, and does not lie to
+you, because lying is a courtesy you extend to someone whose behaviour still
+matters to you.
+
+No one holds the black stone now but the Protector, who keeps it safe on our
+behalf. Every life the Protector takes goes down into the dark, and the dark grows louder
+for it. There is no plan here that you could ruin. There is nothing wanted that
+you could withhold.
+
+And the Protector is popular. That is the part that should frighten you. Because
+the promise is that there will never be another age of Orackai -- and the
+Protector finds them, and takes them, and they are not seen again, and ordinary
+people sleep better.
+
+The Protector is very close now.
+
+And in a fishing province at the wet edge of nowhere, where nobody is anybody and
+everybody is content to stay that way, there is a woman whose book is the
+one they are looking for.
+
+She has a daughter who is five years old.
+
+She does not know how much time is left.
+
+So she is going to be cruel.

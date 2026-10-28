@@ -1,0 +1,274 @@
+#+TITLE: Quintet — The Curse
+#+SUBTITLE: Rebuilt 2026-09-17. Supersedes all earlier versions (pump / switch / book-as-anchor / range-irrelevant).
+
+* Physics
+
+Soul speaking is direct intervention in biology. In our world you intervene
+chemically, optically, electrically; on Orbis there is another channel. Like all
+of those it is neutral — it heals or harms depending on what is done with it.
+
+Oracle stone focuses and amplifies the channel.
+
+*Optional, and independently useful:* the true Manual's cover boards or spine
+contain oracle stone, which is why *this* copy does things the household copies
+cannot. Four centuries of annotators were writing in the margins of an
+instrument. It is also part of why a twelve-year-old could do anything at all in
+that kitchen — she was holding the amplifier. (This is no longer load-bearing;
+nothing depends on it.)
+
+* Two procedures, not one
+
+This is the distinction everything rests on, and it was missing.
+
+*The Reds do REPAIR.* A skilled practitioner goes into his chest and patches —
+slows the failure, shores up what is collapsing, withdraws. It is their work, spent
+out of their own vitality (hence the shaking hands in scene 004), left behind in
+him, and it degrades. Hence: come back in twenty-eight days.
+
+*Leina did SUBSTITUTION.* She did not patch his heart. She routed the deficit onto
+herself. His heart is still failing exactly as fast as it always was — she is
+paying the difference, continuously, out of her own body.
+
+** Why an untrained twelve-year-old outperforms their professionals
+
+It is *not* skill. The Reds know substitution perfectly well. They will not use it,
+because it costs a whole person permanently, and they are not spending a
+practitioner to keep one assassin alive. The Manual documents it as a surgical
+measure: hours, supervised, released at the end.
+
+Leina's genius is not power. It is **willingness.** She did the thing nobody does,
+to herself, because the alternative was a knife.
+
+* What Leina did
+
+The Manual contains a genuine procedure: sustaining a failing organ by tying it
+to a donor. Temporary, supervised, and it has a *closing step* — what the
+practitioner does at the end to release the patient.
+
+She performed it in ninety seconds with a knife at her throat, having only ever
+read it.
+
+**She wrote the binding and never wrote the ending.**
+
+A twelve-year-old's error, permanent, and specifically a *literacy* failure: she
+knew the words and not the grammar.
+
+* Why it cannot be undone
+
+*Encoded and substrate are not in conflict — resolve them like this:* the encoding
+is the **plumbing**, a fixed self-sustaining rule with her signature on it. What
+moves through the plumbing is her vitality. The pipe is permanent; the flow depends
+on the reservoir. That is why it cannot be let go of, and also why her condition
+governs everything.
+
+It is *encoded*, not held. She is not maintaining a flow — she set a rule with
+her signature on it. Self-sustaining, and hard to reverse in the way encryption is
+hard to break. Others can fight its effects (a Red Soul Speaker could labour to
+keep Ardovus alive by other means) but that is their effort against hers, and they
+do not understand what she wrote.
+
+*Two different operations, and keep them separate:*
+
+- **Killing him** is possible. She can damage the link with time and access.
+- **Releasing him** is not. *And the reason is crueller than "no release was ever
+  written."* The documented closing step exists and she can read it — but it works
+  on a fresh binding you are still actively holding. Hers set and hardened. So she
+  has the instructions, they are right there in the book, and they do not work. She
+  can sit with the words that should free them both and watch them fail.
+
+* The conditions
+
+1. If he kills her, he unravels.
+2. If her living force is out of range of him, he unravels.
+3. Her living force is the *substrate*. See below — this is the important one.
+
+** It is TIME, not distance (mek, 2026-09-17)
+
+The constraint is *time since contact.* Distance matters only because distance
+eats the clock — go a week's ride out and two weeks of the window are spent on
+travel. Effective range is half the window.
+
+*What resets it is a soak, not a touch.* He must be near her for a sustained
+period. Returning is not a moment, it is a stay. Forced cohabitation, repeatedly,
+for years, with the person he most wants to escape.
+
+*The window is a function of her condition.* Rested, fed, unharassed: a long rope.
+Sick, exhausted, miserable: a short one. So he cannot plan his own movements
+without managing her wellbeing, and before every departure he has to invest in her
+— feed her up, settle her — out of pure self-interest.
+
+Which hands her the quietest leverage in the books: she sets the length of his rope
+by how well she is, she controls how well she is, and **he can never prove she is
+doing it on purpose.**
+
+*And the irony is the point.* He has swapped one maintenance schedule for another.
+Eleven years of thirty-day extensions from the Reds, escaped into a window granted
+by a twelve-year-old. He is psychologically pre-fitted for it. He knows exactly how
+to be someone's line item.
+
+*He learns the window the only way available:* by going too far, once, and having
+to get back.
+
+It is a gradient, not a fence — symptoms begin well before the limit — so finding
+it takes months of dangerous trial, and he retains real operational latitude. He
+can push past comfortable and pay for it. Which is what makes Book II possible.
+
+* PILLAR ONE — he does not need her alive. He needs her *well*.
+
+Her living force is the substrate, so the supply is proportional to her condition.
+Sick, starved, caged, exhausted, despairing: she supplies less, and his heart gets
+worse in direct measure.
+
+Consequences, all of them good:
+
+- *Imprisonment fails.* A cellar keeps her alive and degrades her, which degrades
+  him. This is the answer to "why doesn't he just cage her," which the previous
+  version had no answer for.
+- *Neglect fails.* He has to feed her, keep her warm, let her sleep.
+- *Torture is self-limiting.* He can hurt her in bursts — and he does, early, to
+  establish that the curse bought her survival and not safety — but the bill
+  arrives, which caps his only real weapon and forces him off it.
+- *He has to keep her from despair.* An assassin professionally obliged to keep a
+  twelve-year-old in tolerable spirits, and not one degree of it is kindness.
+- *The asymmetry stays correct.* She needs him alive; he needs her well. Well is
+  much harder than alive. She is doing more work, in every sense.
+
+* PILLAR TWO — the book survives because he wants out
+
+Not because it anchors anything. Because he wants to be free of her, and freedom
+requires the closing step she never wrote, and if that release exists anywhere on
+Orbis it is in four hundred years of marginalia in that book.
+
+And only she can read it well enough to find it.
+
+So he is not guarding the girl who keeps him alive. **He is funding a research
+programme.** She is the only researcher. The deliverable is his own freedom, and
+she sets the pace entirely.
+
+He is her sponsor and her prisoner at once, dependent on the goodwill of the
+person he most wants to escape.
+
+*And it handles the Reds without assertion:* send the book north and they may
+derive the release themselves — at which point they own him outright, more
+completely than the lease ever did. So he can never let it go, and neither can she,
+for different reasons.
+
+* Why nobody can move
+
+| Ardovus could | Result |
+|---------------+--------|
+| Kill her | He unravels. |
+| Leave | Out of range. He unravels. |
+| Cage or break her | Degrades the substrate. His heart worsens. |
+| Deliver her and the book to the Reds | They experiment on her, which kills him — and the instant the book lands his value as the finder is spent, and he has watched eleven years of what the Reds do with assets that have finished producing. |
+| Let the Reds have the book alone | They may find the release. Then they own him permanently. |
+| Keep her well, keep the book, keep both from the Reds, and put her to work on the release | **The only play.** |
+
+| Leina could | Result |
+|-------------+--------|
+| Kill him | Possible, with time. Costs her permanent capacity she cannot spare. |
+| Run out of range | Kills him — and loses the best living source on the Reds. |
+| Destroy the book | Destroys the only real copy in the world, which four centuries of hanged people died carrying. |
+| Stay well, keep the book, work the problem slowly | **The only play.** |
+
+They want the same three things for entirely different reasons and neither can
+defect.
+
+* What stays live inside the lock
+
+- He can hurt her in bursts and take the feedback, because he has two decades of
+  professional tolerance and she is twelve. Self-limiting, but real, and it is how
+  the first weeks go.
+- She can out-think him, and does, one chip at a time.
+- And the research is the whole relationship: every year she does not solve it is a
+  year he stays, and he can never be sure whether she is slow or unwilling.
+
+* Open
+
+- Does she ever find the release? And if she does, does she give it to him?
+- What is he doing during Book II? Answerable now: operating inside the radius as
+  her outside man — violence and Red-side intelligence, the things she cannot do —
+  while she runs the Academy. The arrangement matures into a division of labour.
+
+* Deeper mechanism, and the holes (analysis 2026-09-18)
+
+** Why she is not dead or crippled within a year
+
+He needs the *deficit* covered, not his whole heart run — a leaking roof needs a
+bucket, not a new house. It also explains her long-established frailty.
+
+But the real answer is dynamic: *his condition worsens across the series while her
+capacity grows.* Twelve to seventeen, plus genuine training. For a long while it is
+roughly a wash. Then it stops being one, and that is Book III's clock.
+
+** Can she partially damage the link?
+
+No. If she could, she would have a dial and the whole "no switch" design collapses.
+It is a *tear, not a valve.* You cannot half-tear; any damage propagates. All or
+nothing, and expensive.
+
+** What "unravel" actually means
+
+Not "his heart stops." The substitution stops covering, and eleven years of
+deferred failure arrive at once. Everything the Reds' patchwork was holding back
+becomes present tense within days.
+
+** He can never be treated by a Red practitioner again
+
+The first one who goes into his chest finds her signature. Treatment is now
+exposure, permanently. This locks him harder than any of the other conditions.
+
+** The Reds could industrialise this — and this is a plot, not a hole
+
+They do not use substitution because it costs a person. The Protector spends
+people. The instant the Reds learn that a permanent substitution *holds*, they have
+unlimited maintenance and a use for prisoners nobody has thought of yet.
+
+Leina's improvisation is a technology, and she is carrying it around in a man's
+chest.
+
+** THE BIG ONE — her state comes through
+
+If her vitality flows to him, so does her condition. That is what makes "he needs
+her well" work at all. Which means he *feels* her: pain, exhaustion, fear, despair.
+
+Leina has spent her entire life being unreadable. It is the core of everything she
+is and everything she was made into.
+
+She is now permanently, involuntarily legible to exactly one person, and it is the
+man who killed her mother.
+
+*The channels are asymmetric.* She gets his **body** — she can hear a failing
+heart. He gets her **state.** His is far more intimate. Neither chose it. It cannot
+be switched off.
+
+This is the deepest thing in the design and it had not been written down anywhere
+before this entry.
+
+* The dynamic on the page (2026-09-21, settled)
+
+- *Ardovus does not comment.* He is Strider: quiet, deadly, introspective, lets
+  nobody in. He does not narrate his sensations or interrogate a child. Most days
+  he does not speak. Every line he does say is therefore enormous.
+- *So the leak is discovered by her, not disclosed by him.* He acts on things he
+  should not know — moves them early, stops before she says she needs to, kills a
+  man she had not finished being afraid of — and she assembles it over weeks,
+  alone, and can never confirm it.
+- *She gives him true things to hang readings on.* She cannot hide the signal, so
+  she supplies innocent causes for it. But never unprompted: offering an
+  explanation nobody asked for tells a professional that something needs
+  explaining.
+- *He resists, constantly.* He gets more signal than he shows and spends every
+  waking hour on three things at once — not leaking, not being read, modelling her.
+- *Leina has the upper hand and the exhaustion is his.* He worked in bursts his
+  whole career; this is continuous, with no off-duty and no end date. She was built
+  for it at five and finds it restful — she has never had a room where she didn't
+  have to do this. He is losing a war of attrition to a child who does not
+  experience it as a war.
+- *She does not underestimate him; she has not finished.* Leina carries partial
+  models correctly labelled as partial, never wrong ones. The dictionary has a line
+  that stays open for years: /What he gets from it — incomplete. More than he
+  shows. Have not established how much./ Never crossed out, never guessed at.
+- *Which means he is not deceiving her.* He is fighting a delaying action against
+  someone who is definitely going to arrive, and he has known it since about month
+  three. That is what makes it exhausting rather than merely difficult.
